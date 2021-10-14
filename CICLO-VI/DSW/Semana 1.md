@@ -78,3 +78,35 @@ Modelos iterativos
 
 **SCRUM**
 ![[Pasted image 20211014151219.png]]
+
+***
+# LABO S1
+
+## Metodologia Agil
+**Manifiesto Agil**
+**Principios del Manifiesto Agil**
+
+**Ventajas de Implementarlas:**
+- Alerta rapida de errores
+- Mejorar calidad
+- Eliminar caracteristitcas innecesarias
+- mayor velocidad y eficacia
+- ahorrar tiempo y costes
+- mejora motivacion e implicacion del equipo
+- mejora satisfaccion del cliente
+
+### Manifiesto Agil
+
+1. Se prioriza al individuo y las interacciones del equipo
+2. Software Funcional en lugar de demaisada documentacion
+3. Colaboracion con el cliente en lugar de contratos
+4. Posibilidad de hacer cambios de planes a medio proyecto
+
+### Tendencia Agil
+
+![[Pasted image 20211014172308.png]]
+
+## SCRUM
+![[Pasted image 20211014180015.png]]
+![[Pasted image 20211014175959.png]]
+![[Pasted image 20211014182407.png]]

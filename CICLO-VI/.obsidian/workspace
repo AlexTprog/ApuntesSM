@@ -6,10 +6,11 @@
       {
         "id": "9c7b4c870df80e6e",
         "type": "leaf",
+        "dimension": 48.07692307692308,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSW/Semana 1.md",
+            "file": "BBDD/Semana 1.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "64546c1149dcb12d",
         "type": "leaf",
+        "dimension": 51.92307692307693,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSW/Semana 1.md",
+            "file": "BBDD/Semana 1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSW/Semana 1.md",
+                "file": "BBDD/Semana 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
   },
   "active": "9c7b4c870df80e6e",
   "lastOpenFiles": [
+    "BBDD/Untitled.md",
     "DSW/Semana 1.md",
     "DSW/IGSW-SILABO2018-DSW.pdf",
     "DSW/Semana 1 ..md",
@@ -109,7 +112,6 @@
     "GCSW/IGSW-SILABO2018-GCSW.pdf",
     "FESW/Semana 1.md",
     "DSW/Silabo-DISEÑO D ESOFTWARE- Plan 2018-Ciclo 6- 20W0602-2021-2.pdf",
-    "ACSW/IGSW-SILABO2018-ACSW.pdf",
-    "GCSW/Lectura 1 - Montandon 2020.md"
+    "ACSW/IGSW-SILABO2018-ACSW.pdf"
   ]
 }
