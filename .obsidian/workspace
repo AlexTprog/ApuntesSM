@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "aa9285cab63e0165",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7b4c870df80e6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSW/Semana 1.md",
+            "mode": "source"
+          }
+        },
+        "group": "e96a6a1d0001b374"
+      },
+      {
+        "id": "64546c1149dcb12d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSW/Semana 1.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e96a6a1d0001b374"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63de171a7feb4049",
+    "type": "split",
+    "children": [
+      {
+        "id": "214c15838d4bc22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06f46a99975da5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bc444c416a11ced",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50055e0b2b33a126",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc8a72bbf90688d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ad69d74bc51e07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSW/Semana 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c7b4c870df80e6e",
+  "lastOpenFiles": [
+    "DSW/Semana 1.md",
+    "DSW/IGSW-SILABO2018-DSW.pdf",
+    "DSW/Semana 1 ..md",
+    "DSW/Untitled.md",
+    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
+    "GCSW/IGSW-SILABO2018-GCSW.pdf",
+    "FESW/Semana 1.md",
+    "DSW/Silabo-DISEÑO D ESOFTWARE- Plan 2018-Ciclo 6- 20W0602-2021-2.pdf",
+    "ACSW/IGSW-SILABO2018-ACSW.pdf",
+    "GCSW/Lectura 1 - Montandon 2020.md"
+  ]
+}
