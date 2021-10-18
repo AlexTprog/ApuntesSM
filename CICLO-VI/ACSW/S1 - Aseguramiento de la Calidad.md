@@ -1,4 +1,3 @@
-
 # Conceptos de Aseguramiento de la calidad
 ## 1. Introduccion: Evolucion atraves del tiempo
 >Se iniciaba inspeccionando - control de calidad - Aseguramiento de calidad - Gestion de Calidad

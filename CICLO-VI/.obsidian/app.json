@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "img",
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true
 }

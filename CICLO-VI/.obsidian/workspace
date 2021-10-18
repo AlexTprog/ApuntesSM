@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7b4c870df80e6e",
+        "id": "ff14135fa978c142",
         "type": "leaf",
-        "dimension": 48.07692307692308,
+        "dimension": 55.21505376344086,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BBDD/Semana 1.md",
+            "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
             "mode": "source"
           }
         },
-        "group": "e96a6a1d0001b374"
+        "group": "2f86d6b2b3e5ceab"
       },
       {
-        "id": "64546c1149dcb12d",
+        "id": "e934cd9dea62d8e0",
         "type": "leaf",
-        "dimension": 51.92307692307693,
+        "dimension": 44.78494623655914,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BBDD/Semana 1.md",
-            "mode": "source"
+            "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
+            "mode": "preview"
           }
         },
-        "group": "e96a6a1d0001b374"
+        "group": "2f86d6b2b3e5ceab"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBDD/Semana 1.md",
+                "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c7b4c870df80e6e",
+  "active": "ff14135fa978c142",
   "lastOpenFiles": [
-    "BBDD/Semana 1.md",
-    "BBDD/ISW2021.1.2018.CICLO05.202W0602-BASE DE DATOS I.pdf",
+    "IHC/Semana 1 - Interaccion Hombre Computadora.md",
+    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
     "GCSW/Lectura 1 - Montandon 2020.md",
-    "SO/Untitled.md",
-    "BBDD/Untitled.md",
+    "FESW/Semana 1.md",
     "DSW/Semana 1.md",
-    "DSW/IGSW-SILABO2018-DSW.pdf",
-    "DSW/Semana 1 ..md",
-    "DSW/Untitled.md",
-    "GCSW/Semana 1 - Gestion de Configuracion del Software.md"
+    "BBDD/Semana 1 - Conceptos.md",
+    "ACSW/Indice.md",
+    "ACSW/Semana 1 - Aseguramiento de la Calidad.md",
+    "BBDD/Semana 1.md",
+    "ACSW/IGSW-SILABO2018-ACSW.pdf"
   ]
 }
