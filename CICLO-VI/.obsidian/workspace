@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
+            "file": "SO/Semana 1.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
+            "file": "SO/Semana 1.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IHC/Semana 1 - Interaccion Hombre Computadora.md",
+                "file": "SO/Semana 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "ff14135fa978c142",
   "lastOpenFiles": [
+    "SO/Semana 1.md",
+    "BBDD/Semana 1 - Conceptos.md",
     "IHC/Semana 1 - Interaccion Hombre Computadora.md",
     "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
     "GCSW/Lectura 1 - Montandon 2020.md",
     "FESW/Semana 1.md",
     "DSW/Semana 1.md",
-    "BBDD/Semana 1 - Conceptos.md",
     "ACSW/Indice.md",
     "ACSW/Semana 1 - Aseguramiento de la Calidad.md",
-    "BBDD/Semana 1.md",
-    "ACSW/IGSW-SILABO2018-ACSW.pdf"
+    "BBDD/Semana 1.md"
   ]
 }
