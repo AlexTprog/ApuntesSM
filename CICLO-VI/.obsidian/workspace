@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ff14135fa978c142",
-        "type": "leaf",
-        "dimension": 55.21505376344086,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SO/Semana 1.md",
-            "mode": "source"
+        "id": "09c97287182323dd",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff14135fa978c142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSW/Semana 2 - Arquitectura de Software.md",
+                "mode": "source"
+              }
+            },
+            "group": "7ff6fdc4cf82d7cd"
+          },
+          {
+            "id": "7a0c2ae8ca61292e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSW/Semana 2 - Arquitectura de Software.md",
+                "mode": "preview"
+              }
+            },
+            "group": "7ff6fdc4cf82d7cd"
           }
-        },
-        "group": "2f86d6b2b3e5ceab"
-      },
-      {
-        "id": "e934cd9dea62d8e0",
-        "type": "leaf",
-        "dimension": 44.78494623655914,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SO/Semana 1.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2f86d6b2b3e5ceab"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SO/Semana 1.md",
+                "file": "DSW/Semana 2 - Arquitectura de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +108,15 @@
   },
   "active": "ff14135fa978c142",
   "lastOpenFiles": [
-    "SO/Semana 1.md",
-    "BBDD/Semana 1 - Conceptos.md",
-    "IHC/Semana 1 - Interaccion Hombre Computadora.md",
-    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
-    "GCSW/Lectura 1 - Montandon 2020.md",
+    "DSW/Semana 2 - Arquitectura de Software.md",
+    "IHC/Semana 3 - Analisis de Tareas.md",
+    "IHC/Semana 2 - Diseño Centrado en el Usuario.md",
+    "FESW/Semana 2.md",
     "FESW/Semana 1.md",
-    "DSW/Semana 1.md",
-    "ACSW/Indice.md",
-    "ACSW/Semana 1 - Aseguramiento de la Calidad.md",
-    "BBDD/Semana 1.md"
+    "GCSW/Lectura 1 - Montandon 2020.md",
+    "ACSW/S2 - Modelo de Gestion de Calidad.md",
+    "ACSW/Untitled.md",
+    "ACSW/S1 - Aseguramiento de la Calidad.md",
+    "GCSW/Semana 2 -.md"
   ]
 }
