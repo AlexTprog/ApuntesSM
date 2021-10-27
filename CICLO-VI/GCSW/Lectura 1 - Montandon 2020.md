@@ -79,17 +79,71 @@ Roles de backend y frontend. Del mismo modo, el desarrollador D2 está vinculado
 **¿Qué tan precisos son los clasificadores de aprendizaje automático para identificar roles técnicos?**
 
 La tabla 4a muestra los resultados generales de los primeros 3 roles usando relevancia binaria. El clasificador Random Forest presento mejores resultados en general, con una puntuacion de 0,77 para precision y 0,71 para AUC. Tanto Ramdon Forest como Naive Bayes desempeñaron significativamente mejor que la linea de base estratificada. Los resultados de linea de base son, por ejemplo solo 0.33 para precision.
-![[Pasted image 20211019190824.png]]
-![[Pasted image 20211019191905.png]]
+
+Tabla 4 ![[Pasted image 20211019190824.png]]
+Figura 4 ![[Pasted image 20211019191905.png]]
 
 > Random Forest presentó los mejores resultados en general, superando tanto a Naive Bayes como a la línea de base. Cuando se analizaron individualmente, DataScience y Frontend obtuvieron los mejores resultados para la mayoría de las métricas, mientras que Backend mostró los peores.
 
-**¿Cuáles son las características más relevantes para distinguir los roles técnicos?**
+### **¿Cuáles son las características más relevantes para distinguir los roles técnicos?**
 
+En la figura 4 los colores y las formas identifican la categoria de cada caracteristica (lenguajes de programacion, nombres de proyectos, descripciones de proyectos, temas de proyectos, etc). Ademas, se anoto la categoria asociada a cada caracteristica. Finalmente se normalizo el ranking con respecto a la caracteristica con mayor valor. Las funciones asociadas con los lenguajes de programacion predominan en gran medida para los cinco roles, que representan 38 de 50 funciones. **En otras palabras, el 66% de las características relevantes de los lenguajes de programación tienen en cuenta las contribuciones reales de los desarrolladores.**
+
+La segunda mas frecuente es la biografia corta, seguida de las descripciones de proyectos y los nombres de proyectos. Sin embargo la biografia corta aparece como la caracteristica mas importante en tres roles. la mayoria de estas caracteristias describen directamente el rol que se analiza. Sorprendentemente, los temas de los proyectos y las dependencias de los proyectos no están presentes en ninguna posición de clasificación.
+
+Cuando analizamos los resultados de cada función, vemos que DataScience tiene las características más relevantes. Se destacan seis características con más del 3% de tasa de relevancia: científico (Bio) (6.5%), Jupyter Notebook (total) (5.4%), Jupyter Notebook (tasa) (5.1%), datos (Bio) (5.0%) , R (total) (4,4%) y R (tasa) (3,5%). Aunque estos valores pueden parecer
+bajo, nuestro modelo incluye 1,662 funciones. Además, estas características son bastante específicas del campo DataScience; de ellos solo Jupyter Notebook (total) también está presente en otros roles (Frontend).
+
+Para Mobile, Mobile (Bio) se destaca con 3.0% de tasa de relevancia, seguido de Swift (tasa) (2.0%) y Java (tasa) (1.6%). Más específicamente, tres de cada 10 funciones están asociadas directamente a la plataforma de desarrollo de iOS (Swift (tasa), Swift (autor) e ios (desc.)). Asimismo, otras tres funciones están vinculadas a la plataforma Android: Java (tarifa), Android (nombre) y Java (total). Las funciones relacionadas con el desarrollo de iOS y Android representan el 4,5% y el 4,3% de las 10 funciones enumeradas, respectivamente.
+
+Las características relacionadas con los lenguajes de programación son predominantes para los cinco roles. En el rol de DataScience, se destacan seis características: científico (Bio), Jupyter Notebook (total), Jupyter Notebook (tasa), datos (Bio), R (total) y R (tasa). Por otro lado, se presentan menos funcionalidades de tanta importancia en otros roles: devops (Bio) para DevOps, mobile (Bio) para Mobile, JavaScript (autor) para Frontend. Por último, ninguna característica se destaca de las demás para Backend.
+
+### **¿Los roles técnicos se influyen entre sí durante la clasificación?**
+Como se explico anteriormente usamos las cadenas de clasificadores (cc) para lidiar con las clasificaciones multiples. Al usar estar tecnica los clasificadores binarios se ordenan de tal manera que cada modelo usa predicciones previas como entrada.
+Se ejecuto la tecnica de cc con Ramdon forest para todas las combinaciones de roles posibles, la figura 5 presenta los resultados en seis graficos diferentes, uno por cada metrica considerada en el estudio.  El eje horizontal representa cada configuracion con cc y el eje vertical el numero de puntos que tiene cada metrica.
+
+Los resultados revelan que la inclusión de predicciones de roles técnicos en el proceso de clasificación no aporta mejoras significativas. En general, obtuvimos mejoras menores para la recuperación, Jaccard y F1 en el costo de precisión. Estos resultados son más consistentes cuando Mobile se clasifica primero, seguido de Backend o Frontend.
+
+Figura 5 ![[Pasted image 20211022103720.png]]
 ## Compresion del rol FullStack
+A diferencia de los roles analizados anteriormente, los desarrolladores de FullStack se definen por su capacidad para trabajar en toda la pila de aplicaciones. De hecho, la industria ve a un desarrollador FullStack como alguien que puede realizar tanto tareas de frontend como backend. 
+
+Debio a esta particular se decidio estudiar el rol de full stack.Para corregir la inconsistencia generada al no incluir a los devs fullstack en la ground truth  se necesito adaptar el proceso de etiquetado para considerar a cada desarrollador de Fullstack como un experto en roles de backend y frontend . Después de aplicar el mismo proceso descrito anteriormente, este conjunto de datos extendido termina con 1567 características: 819 de la categoría Dependencias de proyectos, 219 de Lenguajes de programación, 212 de Descripciones de proyectos, 146 de Temas de proyectos, 101 de Nombres de proyectos y 70 de Short Bio.
+### **¿Con qué eficacia podemos identificar a los desarrolladores de pila completa?**
+La siguiente tabla presenta los resultados de clasificacion Random Forest usando el enfoque de relevancia binaria incluyendo fullstack. Ademas, incluimos los resultados para cada uno de los cinco roles anteriores. Las métricas informaron resultados significativamente mejores después de incluir a los desarrolladores de FullStack en la verdad básica.
+
+El clasificador propuesto funcionó muy bien al identificar a los desarrolladores de FullStack (precisión = 0,99). Además, los desarrolladores de FullStack tienen un efecto colateral interesante, ya que contribuyeron a mejorar los resultados de
+tanto Backend (+ 25%) como Frontend (+ 9%).
+
+Tabla 5
+![[Pasted image 20211022112016.png]]
+
 ## Discusion
+### Implicaciones
+Se resalto la importancia de desvelar roles tecnico, especificamente se realizaron dos estudios preliminares para determinar la importancia del tema. Primero, inspeccionamos las publicaciones de la plataforma stackover flow jobs y se descubrio que el 64% de las ofertas son para uno de los seis roles tecnicos estudiados en este documento.
+Segundo se realizo una encuesta con los reclutadores tecnicos para comprender que caracteristicas buscan en los perfiles de Github. Cinco de cada seis reclutadores indicaron que buscan pistas para discernir los roles tecnicos de los candidatos.
+
+El enfoque de machine learning propuesto tiene la mayor parte de su uso en los procesos de contratacion. En este contexto, al contratar desarroladores de software, los reclutadores pueden beneficiarse de los roles tecnicos inferidos por los modelos propuestos. Este uso puede ocurrir de dos formas principales, identificando proactivamente a los desarrollares con las habilidades que se esperan de los puestos de trabajo existentes. En segundo lugar evaluando de forma reactiva el perfil de los candidatos que ya han postulado a los puestos de trabajo existentes.
+
+### Notas sobre precision y recuperacion
+El enfoque utilizado mostro su eficacia al revelar los roles tecnicos de los desarroladores de software dados sus perfiles de Github.
+
+La precision del enfoque responde a la pregunta "¿Qué proporción de identificaciones positivas fue realmente correcta?" mientras que el recuerdo  "¿Qué proporción de positivos reales se identificó correctamente?" En el contexto de los reclutadores tecnicos defendemos que la precision mas importante que el recuerpo ya que se neceista identificar un pequeño grupo de candidatos para los puestos existentes es decir no es necesario ubicar a absolutamente todos los desarrolladores que se encunetran en github.
+### Analisis Manual
+Se inspecciono manualmente los perfiles de los desarrolladores para analizar sus predicciones y poder comprender mejor los resultados de clasificacion propuestos. Especificamente en tres escenarios distintos: Clasificaciones correctas (verdadero positivo) clasificado incorrectamente en un rol dado (falso positivo) y no clasificado en un rol determinado a persar de  serlo (falso negativo)
+
+#### Escenario positivo verdadero
+El enfoque predijo correctamente los roles de los desarroladores de este grupo. En este escenario  por ejemplo se inspecciono al dev D844 clasificado como desarrolador movil. D844 posee 22 proyectos publicos de GitHub la mayoria de ellos relacionados con el desarrollo movil; cuatro proyectos tienen swift como su principal lenguaje de programacion y otros cinco tiene la palabra Android en su descripcion. Ademas, otros cuatro proyectos se implementan en Java y contienen expermientos soobre animacion en graficos en Android. En su sitio web personal se describe a si mismo como Ingeniero de Android e IOS-App Maker.
+
+#### Escenario falso positivo
+Este grupo contiene devs predichos erroneamente como expertos en cualquiera de los roles analizados. Inspeccionamos el perfil de D1341, no es un devops pero se predijo como tal. En su perfil de linkein se indentifica como data engineer y tambien menciona que trabaja en este puesto desde 2016. recibio la mayoria de respaldos de python, data science y machine learning. Por el contrario, tiene pocos respaldos en tecnologias especificas de devops.
+
+#### Escenario falso negativo
+En este escenario ols devs no estan clasificados como expertos de un rol. Por ej  D68, quien es desarrolador frontend, pero no fue indentificado como tal. En su biografia se describe a si mismo como un ingeniero frontens. En github este desarrolador realizo 1018 contribuciones durante el año pasado donde el 51% de ellos fueron comprometidos .Sin embargo este dev es propietario de solo 12 proyectos, cicon de ellos directamente relacionado con tecnilogias frontend. Los restantes se implementarios en otros lenguajes. En otras palabras, los lenguajes de programación y la breve biografía que usa D68 son las únicas características directamente relacionadas con Frontend, pero su presencia no fue suficiente para etiquetarlo correctamente.
 ## Amenazas a la validez
 ## Trabajo relacionado
+### Experiencia en el campo
+### Conocimientos Tecnicos
 ## Conclusion
 
 

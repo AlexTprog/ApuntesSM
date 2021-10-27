@@ -73,7 +73,3 @@ Estrategia de gestion , busca crear conciencia en todos los procesos organizacio
  ![[Pasted image 20211018192813.png]]
  
  
- 1. Pizarra limpia
- 2. El procedimiento de pizarra limpia para la organizacion de saturn les permitio reorganizar todo de cero e introducir la calidad total en los procesos.
- 3. 
- 
