@@ -141,12 +141,36 @@ Este grupo contiene devs predichos erroneamente como expertos en cualquiera de l
 #### Escenario falso negativo
 En este escenario ols devs no estan clasificados como expertos de un rol. Por ej  D68, quien es desarrolador frontend, pero no fue indentificado como tal. En su biografia se describe a si mismo como un ingeniero frontens. En github este desarrolador realizo 1018 contribuciones durante el año pasado donde el 51% de ellos fueron comprometidos .Sin embargo este dev es propietario de solo 12 proyectos, cicon de ellos directamente relacionado con tecnilogias frontend. Los restantes se implementarios en otros lenguajes. En otras palabras, los lenguajes de programación y la breve biografía que usa D68 son las únicas características directamente relacionadas con Frontend, pero su presencia no fue suficiente para etiquetarlo correctamente.
 ## Amenazas a la validez
+Los siguientes problemas son posibles amenazas para nuestros resultados:
+- **Funciones de Destino:** Se analizaron seis roles tecnicos. Aunque representan un numero restringido de roles, se seleccionaron los mas populares, segun una encuesta reciente a gran escala realizada por Stack Overflow. Ademas cubren el 64% de los trabajos enumerados  recientemente en los trabajos de stack overflow, como se meciona en la introduccion.
+- **Verdad Fundamental:** El conjunto de datos a analizar esta restringido a devs que tengan perfiles tanto en StackOverflow como en github . La verdad Fundamentan se basa en las actividades publicas de los desarroladores en Github. Representan un subconjunto de todas las actividades de varios desarrolladores. Esta limitacion puede aumentar los falsos negativos en escenarios particulares. Por ejemplo, un desarrolador es movil, pero los datos disponibles publicamente lo caracterizan como desarrolador backend. Una posible direccion para abordar este problema podria ser el uso de las actividades de los desarrolladores a partir de fuentes de datos adicionales. Se siguio un proceso atuomatizado para etiquetar a los 2284 devs en la verdad fundamental.
+- **Clasificacion de etiquetas multiples:** Se pueden aplicar otras tecnicas de clasificacion en problemas de etiquetas multiples por ej laber powerset. Sin embargo se usaron dos tecnicas para la calisficacion de multiples etiquetas. Ademas de dos algoritmos de clasificacion conocidos como: Random Forest y Naive Bayes. A pesar de eso el trabajo futuro deberia considerar otros algoritmos de clasificacion como XGBoost.
+- **Umbrales:** Se reconoce que los resultados dependen de diferentes umbrales que se utilizan por ej, para descartar funciones correlacionadas (Pearson >= 0,7) para limitar la cantidad de funciones utilizadas en las descripciones de los proyectos ([0,04, 0,15]). , nombres de proyectos ([0.01, 0.25]), temas de proyectos ([0.01, 0.25]) y biografía breve ([0.01, 0.20]), en general se usaron umbrales conservadores. Se experimento tambien con otros valores umbral en todo los casos y seleccionamos los que mejores resultados presentaron.
+
 ## Trabajo relacionado
+Se aborda la experiencia de los devs de software en dos puntos principales. El primero se conoce como la experiencia en el campo, que aborda la experiencia en proyectos especificos, ignorando los antecedentes tecnicos de los desarrolladores.  La segunda se conoce como experiencia tecnica, esta se centra en revelar las habilidades tecnicas de los desarroladores.
 ### Experiencia en el campo
-### Conocimientos Tecnicos
+Se baso en los desarrolladores que compromenten la actividadr para estimar los truck-factors (metrica de autoria de codigo fuente). Ademas se probo su enfoque contra 119 sistemas de codigo abierto para identificar sus princiaples habilidades. Se utilizaron modelos Markov ocultos multidimensionales para predecir el comportamiento de contribucion de los desarrolladores. Para cada desarrollador de un proyecto se recopilan datos y los clasifican en clases principales y secundarias. 
+Previamente se creo un modelo basado en las reglas para obtener la experiencia de los desarroladores en funcion de la frecuencia de sus commits. El modelo vincula una lista de categorias extraida de las estructura de los directorios de cada proyecto a cada desarrollador en funcion de la frecuencia de los cambio que realizan en cada directorio. Da silva introdujo una tecnia para aprovechar la experiencia de los artefactos de sistema a nivel de motodo de codigo fuente. Tenga en cuenta que los trabajos de esta subsección tienen como objetivo recomendar a los desarrolladores que mantengan proyectos específicos.
+### Experiencia Tecnica
+La mayor parte del trabajo relacionado aborda el problema de la experiencia tecnia hacia tecnologias de terceros. En un trabajo reciente se propuso dos metodos para evaluar el nivel de experiencia de 575 devs en tres bibliotecas de JS. Se uso estadisticas recopiladas por la actividad en GitHub (frecuencia de commits, code churn,etc). Para clasificarlos en tres niveles novato - intermedio - experto. 
+
+Teyton propueso un motor de busqueda basado en cambios sintacticos, para desarroladores con experiencia en Java, Linux , Apache etc.
+Wan desarrollo un modelo probabilistico para evaluar habilidades de codificacion de los desarrolladores en tecnologias de software. 
+Greene Fischer propuso una herramienta que extrae y presenta los datos de habilidades de devs de Github, incluidas habilidades en lenguajes de programacion bibliotecas y frameworks.
+Otros autores propones hacer coincidir las tecnologias que utilizan los desarrolladores en tareas especificas. Por ejemplo Hauff y Gousios extrajeron la actividad del usuario de github y anuncios de trabajo para recomendar que los desarrolladores coincidan con los trabajos abiertos. Aprovechan un modelos de espacio vectorial, utilizando datos de perfiles extraidos de github y anuncios de trabajo.
+enkataramani y col. [64] propuso un modelo que, al usar la información de actividad de los desarrolladores en GitHub, recomienda preguntas de Stack Overflow para que las respondan estos desarrolladores.
+> Por el contrario, nuestro trabajo se centra en detectar la experiencia de los desarrolladores en un nivel de granularidad más alto, es decir, roles técnicos.
 ## Conclusion
+La creciente complejidad y relevancia de los sistemas de software modernos esta fomentando la especializacion de los desarrolladores de software en tecnologias particulares. Como resultado al contratar desarrolladores las empresas generalmnete buscan trabjadores que puedna trabajar en areas especificas. 
+En el articulo se describe un enfoque centrado en el machine learningpara predecir seis roles tecnicos populares (backend-frontend-mobile-fullstack-datascience-devops).
+Usando caractersiticas extraidas de los perfiles publicos de usuarios de Github se obtiveron buenos resultados para identificar los seis roles en términos de precisión (0.88) y AUC (0.89). Por el contrario, observamos resultados más bajos para DevOps y Mobile con respecto a la recuperación, por ejemplo, 0.06 y 0.34.
 
+> Este estudio puede ofrecer una buena asistencia a los reclutadores tecnicos ya que en su contecto la identificacion de los candidatos correctos es mas relevante. 
 
-
+Planeamos extender nuestra investigación en las siguientes líneas: 
+- (a) mejorar el proceso de clasificación agregando nuevas características (por ejemplo, marcos) y probando otros clasificadores (por ejemplo, XGBoost [17]); 
+- (b) validar nuestros resultados (y el uso práctico de nuestro enfoque) a través de una encuesta a gran escala con desarrolladores reales, e 
+- (c) implementar un complemento de navegador para informar las funciones técnicas de los perfiles existentes de GitHub.
 
 

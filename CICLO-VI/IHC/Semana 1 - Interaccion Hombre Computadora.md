@@ -68,10 +68,20 @@ Fidelidad de los usuarios, una buena interfaz es una interfaz que no se ve.
 - Satisfaccion
 
 **Beneficios**
-Reduccion de costos de aprendizaje y asistencia al usuario, menor costo de diseño, mejora imagen , prestigio y calidad.
+- Reduccion de costos de aprendizaje y asistencia al usuario, menor costo de diseño.
+- Mejora imagen , prestigio y calidad.
+- Mejora de la calidad de vida de los usuarios ya que reduce su estres, incremente la satisfaccion y la productividad.
+- Mayor rapidez en la realizacion de tareas, menor iresgo o propension a errores y reduce a las perdidas de tiempo.
 
 **Consideraciones:**
+- La usabilidad debe considerarse desde el inicio del proceso de desarrollo hasta las ultimas acciones antes de implementar el sistema, producto o servicio disponible al publico
+- Incluye consideraciones como:
+	- ¿Quienes son los usuarios, que es lo que sabes y que pueden aprender?
+	- ¿Que quieren o necesitan hacer los usuarios?
+	- ¿Cual es el contexto general de los usuario?
+	- ¿Cual es el contexto en el cual los usuarios estan trabajando?
+	- ¿Que hay que dejarle a la maquina?
 
 **Disciplinas relacionadas**
-Diseño grafico, psicologia, IA
+Diseño grafico, psicologia, IA, Ergnomia
 
