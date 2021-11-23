@@ -33,7 +33,7 @@
 | Sprint Retrospective                     | \-                                       |                | \-                                               | 9/1/22   | 10/1/22  | 0%          |
 | Hito 3 - Fin de Sprint 3                 |                                          |                |                                                  | 13/12/21 | 10/1/22  | 0%          |
 
-# **Participantes**
+### **Participantes**
 |     | GRUPO 1                        | Rol    | 
 | --- | ------------------------------ | ------ |
 |     | Apellido y nombre              | Rol    |
@@ -47,7 +47,7 @@
 | 8   | Caballero Leon Fredi           | A      |
 
 
-## **Leyenda**
+### **Leyenda**
 | JP     | Jefe de Proyecto       |
 | ------ | ---------------------- |
 | DF     | Desarrolador Frontend  |

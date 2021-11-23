@@ -1,5 +1,6 @@
 # Interaccion Hombre Computador
 Ergonomia, Diseño, maximiza la viabilidad del sistema, confort, Comidad del usuario. Interfaces adecuadas e inteligentes.
+
 >Usabilidad: que el objeto sea ergonomico, sea intuitivo
 
 Ejemplos: Falta de tipos de conexiones, posicion de conectores USB y HDMI.

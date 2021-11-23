@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab96a732a337e373",
-        "type": "leaf",
-        "dimension": 48.97435897435897,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "img/SMPO-CR.md",
-            "mode": "source"
-          }
-        },
-        "group": "e29676bf87392e3d"
-      },
-      {
         "id": "285788535806e496",
         "type": "leaf",
-        "dimension": 51.02564102564102,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "img/SMPO-CR.md",
+            "file": "ACSW/Semana 7.md",
             "mode": "source"
           }
-        },
-        "group": "e29676bf87392e3d"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "50055e0b2b33a126",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/SMPO-CR.md",
+                "file": "ACSW/Semana 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab96a732a337e373",
+  "active": "285788535806e496",
   "lastOpenFiles": [
-    "img/SMPO-CR.md",
-    "GCSW/Semana 4 -.md",
-    "GCSW/Lectura 1 - Montandon 2020.md",
-    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
-    "GCSW/Semana 2 -.md",
-    "GCSW/Semana 3.md",
+    "ACSW/Semana 7.md",
+    "GCSW/Semana 7.md",
     "GCSW/Lectura 2.md",
-    "FESW/Expo SWEBOK.md",
-    "IHC/Semana 4 - Prototipos.md",
-    "DSW/Semana 4 -.md"
+    "GCSW/Semana 6.md",
+    "DSW/Semana 6.md",
+    "SO/Semana 3.md",
+    "SO/Semana 2.md",
+    "SO/Semana 1 - Sistemas operativos.md",
+    "ACSW/Resumen.md",
+    "IHC/Semana 7.md"
   ]
 }
