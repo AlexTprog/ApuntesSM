@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IHC/Semana 8 - Errores y Ayudas.md",
+            "file": "ACSW/S1 - Aseguramiento de la Calidad.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50055e0b2b33a126",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IHC/Semana 8 - Errores y Ayudas.md",
+                "file": "ACSW/S1 - Aseguramiento de la Calidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "285788535806e496",
   "lastOpenFiles": [
+    "ACSW/S1 - Aseguramiento de la Calidad.md",
     "IHC/Semana 8 - Errores y Ayudas.md",
     "ACSW/Semana 7.md",
     "GCSW/Semana 7.md",
@@ -97,7 +97,6 @@
     "DSW/Semana 6.md",
     "SO/Semana 3.md",
     "SO/Semana 2.md",
-    "SO/Semana 1 - Sistemas operativos.md",
-    "ACSW/Resumen.md"
+    "SO/Semana 1 - Sistemas operativos.md"
   ]
 }
