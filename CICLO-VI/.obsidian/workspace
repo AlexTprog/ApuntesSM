@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "285788535806e496",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ACSW/S1 - Aseguramiento de la Calidad.md",
-            "mode": "source"
+        "id": "1ce601985f05380f",
+        "type": "split",
+        "children": [
+          {
+            "id": "55f855adbf499d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
+                "mode": "source"
+              }
+            },
+            "group": "da7febc9657e7744"
+          },
+          {
+            "id": "e8c648146a0ec947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
+                "mode": "preview"
+              }
+            },
+            "group": "da7febc9657e7744"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACSW/S1 - Aseguramiento de la Calidad.md",
+                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "285788535806e496",
+  "active": "55f855adbf499d0f",
   "lastOpenFiles": [
-    "ACSW/S1 - Aseguramiento de la Calidad.md",
-    "IHC/Semana 8 - Errores y Ayudas.md",
-    "ACSW/Semana 7.md",
-    "GCSW/Semana 7.md",
+    "GCSW/Semana 2 - Fundamentos de la GCS.md",
+    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
+    "GCSW/Semana 4.5 - Plan de la Gestion de la Configuracion del Software Identificacion de la GCS.md",
+    "GCSW/Semana 6.7 - Control de la Configuracion.md",
+    "GCSW/Semana 3 - Estandares Internacionales Proceso de la SCM.md",
+    "ACSW/S4 - Seguridad Auditoria y la calidad de las soluciones de software.md",
     "GCSW/Lectura 2.md",
-    "GCSW/Semana 6.md",
-    "DSW/Semana 6.md",
-    "SO/Semana 3.md",
-    "SO/Semana 2.md",
-    "SO/Semana 1 - Sistemas operativos.md"
+    "GCSW/Lectura 1 - Montandon 2020.md",
+    "ACSW/S1 - Aseguramiento de la Calidad.md",
+    "GCSW/Semana 5 - Plan de la Gestión de la Configuración del Software Identificación de la GCS.md"
   ]
 }

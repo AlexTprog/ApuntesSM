@@ -1,35 +1,48 @@
-# Fundamentos de la Gestion de la Configuracion del Software (SCM)
-Se refiere mas al tema de gestion que de codificar, consiste en aplicar procedimientos tecnicos y administrativos a lo largo del ciclo de vida del software.
+# Gestion de la Configuracion del Software (SCM)
+Es un proceso que permiten gestionar un software durante todo su ciclo de vida. **Establecer una linea base** e informar del estado de elementos, controlar los cambios, el almacenamiento y releases . Ademas de asegurar la completitud y consistencia del software.
+
+> Se aplica durante todo el proceso para identificar, organizar y controlar las modificaciones que sufre el software
+
+Administra el contenido
+
+
 ![[Pasted image 20211011145908.png]]
+
 Se aplica durante todo el ciclo de vida del software
 
 > **Matenimiento:** mantener el software actualizado, realizar cambios luego de produccion
 > **Artefacto:** Entregables, Historias de usuario, casos de uso.
 
 ## Evolucion del Software
-Nunca se detiene cuando se entrega el sistema, continua a lo largo de la vida de este.
-Es necesario modificarlo para mantenerlo "vivo". La innovacion deber ser constante e incluir por ej, nuevos requeirmientos, cambios empresariales, expectativas de usaurio, etc.
-Los sistemas de SW utiles tienen larga vida, puesto que el costo del software es elevado, una compañia tiene que usar un sistemas un largo plazo para recuperar su inversion.
+El software es muy costoso por lo que suele tener una larga vida, para evitar que quede obsoleto este debe seguir modificandose agregando nuevas funcionalidades. 
 
-**Problemas**
-- Archivor perdidos: no se donde lo puse
-- Referencias perdidas: las librerias no estan
-- Sobreescribir codigo de otro: sobrescriben su trabajo mutuamente
-- No hay boton deshacer: no hay un sistema de control de versiones, los nuevos cambios son peores, pero no se puede volver atras.
+> El software esta obligado a mantenerse actualizado para justificar su alto costo.
 
-**Soluciones**
-`disciplina de control,dentro del proyecto`
-> **SCM:** se aplica durante todo el proceso de ing software, permite identificar, organizar y controlar modificaciones que sufre el software. 
-> Sirve para administrar y controlar el contenido de un producto de software y cambios durante la evolucion del software durante todo el proceso de desarrollo
+**Problemas que ocurren al darle mantenimiento al software**
+- ¿Que version tiene el cliente? ¿A cual corresponde el error?
+- La version actual del codigo se sobreecribe por una anterior.
+- Una actualizacion critica se descarta de la version final.
+- Se hacen cambios a una version incorrecta del codigo
+- Reaparecen errores ya corregidos
+- No se logra determinar que versiones de archivos van en una entrega.
 
 
 ## Tareas del proceso de la SCM
+- ¿Como identificar las muchas versiones de un programa y su documentacion eficientemente?
+- ¿Como controlar la organizacion de cambios antes y despues de la distribucion?
+- ¿Quien es el responsable de aprobar y asignar prioridades a los cambios?
+- ¿Como garantizar que los cambios se han hecho eficientemente?
+
 - Identificar las versiones de un programa y su documentacion
 - Controlar la organizacion de cambios antes y despues de la distribucion
 - Designar responsable de aprobar y asignar prioridades a los cambios
 - Garantinzar que los cambios se han hecho eficientemente
 
 ## Resultados esperado de la SCM segun la NTP(Norma Tecnica Peruana)
+Se espera que al desarrolgar una estrategia de gestion de configuracion:
+Tenga definida mi linea base, pueda identificar quien realizo los cambios, que tenga los items identificados.
+
+
 - Desarrolla una estrategia de gestio de configuracion
 - Identifican definen y establecen la **linea base** de los productos/items generados por el proceso o proyecto
 - Controlan las modificaciones y versiones de productos/items
@@ -41,10 +54,11 @@ Los sistemas de SW utiles tienen larga vida, puesto que el costo del software es
 `NTP ISO/IEC 12207:2006`
 
 ## Mantenimiento del Software
+El mantienimiento hace que el software se mantenga actualizado hace que "evolucione".
 Consiste en cambiar un sistema, despues de que este se entrego.
 ### Tipos de mantenimiento de software
 - Reparacion de fallas
-- Adaptacion ambiental
+- Adaptacion ambiental - Hardware o Sistema Operativo
 - Adicion de funcionalidad
 
 ## SWEBOK
@@ -63,15 +77,20 @@ la biblia de la ing de software
 ### Roles 
 #### Comite de Control de Cambios (CCB)
 **Funciones:**
+Coordinar respecto a la gestion cambios
+Dar seguimiento a la gestion de cambios
+Evaluar los registros
 - Evaluar registro de eventos
 - Gestionar solicitudes de cambio
 - Mantener un seguimiento de registros de eventos y solicitudes de cambios.
 - Apoyar con el registro de eventos
 - Coordinar con la gestion de proyecto
 #### Bibliotecario
+El encargado de las librerias dentro del proyecto
 - Definir y dar mantenimiento a las bibliotecas (librerias) usadas en la SCM
 - Asegurar aspectos practicos de la SCM
 #### Gestor de la gestion de la configuracion
+Implementa, mantiene y mejora la SCM
 - Implementar mantener y mejorar la SCM
 - Reponsable de la herramiento durante la SCM
 
