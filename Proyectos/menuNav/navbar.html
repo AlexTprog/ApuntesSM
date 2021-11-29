@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="navbar.css">
+    <title>Navbar</title>
+  </head>
+  <body>
+    <nav>
+      <button class="nav-button" onclick="acction()">Menu</button>
+      <a href="#" class="nav-enlace desaparece">Inicio</a>
+      <a href="#" class="nav-enlace desaparece">Nosotros</a>
+      <a href="#" class="nav-enlace desaparece">Servicio</a>
+      <a href="#" class="nav-enlace desaparece">Contactos</a>
+    </nav>
+
+    <script>
+      function acction(){
+        console.log('Funionando acction')
+        var clase = document.getElementsByClassName('nav-enlace');
+        for (var i = 0;i < clase.length;i++){
+          clase[i].classList.toggle('desaparece');
+        }
+      }
+    </script>
+  </body>
+</html>
