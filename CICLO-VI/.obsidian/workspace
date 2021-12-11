@@ -10,10 +10,11 @@
           {
             "id": "55f855adbf499d0f",
             "type": "leaf",
+            "dimension": 48.6646884272997,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
+                "file": "BBDD/Modelo Logico.md",
                 "mode": "source"
               }
             },
@@ -22,10 +23,11 @@
           {
             "id": "e8c648146a0ec947",
             "type": "leaf",
+            "dimension": 51.33531157270029,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
+                "file": "BBDD/Modelo Logico.md",
                 "mode": "preview"
               }
             },
@@ -72,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "50055e0b2b33a126",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCSW/Semana 2 - Fundamentos de la GCS.md",
+                "file": "BBDD/Modelo Logico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +111,15 @@
   },
   "active": "55f855adbf499d0f",
   "lastOpenFiles": [
-    "GCSW/Semana 2 - Fundamentos de la GCS.md",
-    "GCSW/Semana 1 - Gestion de Configuracion del Software.md",
-    "GCSW/Semana 4.5 - Plan de la Gestion de la Configuracion del Software Identificacion de la GCS.md",
-    "GCSW/Semana 6.7 - Control de la Configuracion.md",
-    "GCSW/Semana 3 - Estandares Internacionales Proceso de la SCM.md",
-    "ACSW/S4 - Seguridad Auditoria y la calidad de las soluciones de software.md",
-    "GCSW/Lectura 2.md",
-    "GCSW/Lectura 1 - Montandon 2020.md",
-    "ACSW/S1 - Aseguramiento de la Calidad.md",
-    "GCSW/Semana 5 - Plan de la Gestión de la Configuración del Software Identificación de la GCS.md"
+    "BBDD/Modelo Logico.md",
+    "DSW/Semana 9 - Patrones de Diseño.md",
+    "SO/S? -.md",
+    "ACSW/S9 - Aseguramiento de la Calidad en los Estandares de Calidad.md",
+    "GCSW/Semana 9 -.md",
+    "IHC/Semana 11 - Auditoria.md",
+    "IHC/Semana 10 - Evaluacion y Pruebas de Interfaces.md",
+    "SO/Semana 3.md",
+    "SO/Semana 1 - Sistemas operativos.md",
+    "ACSW/S7 - Pruebas de Software.md"
   ]
 }
