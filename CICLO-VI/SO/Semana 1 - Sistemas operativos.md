@@ -1,5 +1,5 @@
 # Sistemas Operativos
-Es alque programa enacargado de getionar los recursos dsiponibles del coputador.
+Es alque programa enacargado de getionar los recursos dsiponibles del computador.
 
 ![[Pasted image 20211104091414.png]]
 
@@ -19,23 +19,27 @@ Es alque programa enacargado de getionar los recursos dsiponibles del coputador.
 
 ![[Pasted image 20211104092459.png]]
 
-### Por su estr
+### Por su estructura
 ### Monolotica
 Esta compuesto por un conjunto de rutinas entrelazadas de tal forma que una puede llamar a otra.
 ![[Pasted image 20211104092614.png]]
 
 ### Jerarquico
+Esta organizado por medio de anillos
 
 ![[Pasted image 20211104092651.png]]
 
-### maquina virutal
-
+### Maquina virutal
+Busca integrar distintos sistemas operativos dando la sensacion de ser varias maquinas diferentes.
+Son una replica de una maquina real, de manera que puedan ejecutar un sistema operativo diferente.
 ### Por el numero de usuarios
-- Monousuarios Solo soporta un usuaio
-- Multiusuario multiples usaurio
+- Monousuarios: Solo soporta un usuario,independiente al numero de procesadores
+- Multiusuario: multiples usuarios simultaneos
 
 ### Por el numero de tareas
 - Monotareas: una tarea a la vez por usuario
-- Multitarea
+- Multitarea: Permite al usuario realizar varias tareas al mismo tiempo.
+
+
 
 

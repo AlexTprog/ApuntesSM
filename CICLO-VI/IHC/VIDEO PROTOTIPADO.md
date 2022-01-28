@@ -1,5 +1,5 @@
 MAXIMO 2 MIN
-Herramientas de Prototipado
+## Herramientas de Prototipado
 
 Estas herramientas nos permitiran crear prototipos, con los cuales podremos tener un primera aproximacion a una idea
 

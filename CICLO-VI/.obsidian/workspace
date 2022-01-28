@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce601985f05380f",
-        "type": "split",
-        "children": [
-          {
-            "id": "55f855adbf499d0f",
-            "type": "leaf",
-            "dimension": 48.6646884272997,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBDD/Modelo Logico.md",
-                "mode": "source"
-              }
-            },
-            "group": "da7febc9657e7744"
-          },
-          {
-            "id": "e8c648146a0ec947",
-            "type": "leaf",
-            "dimension": 51.33531157270029,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBDD/Modelo Logico.md",
-                "mode": "preview"
-              }
-            },
-            "group": "da7febc9657e7744"
+        "id": "55f855adbf499d0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IHC/VIDEO PROTOTIPADO.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -74,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50055e0b2b33a126",
@@ -91,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBDD/Modelo Logico.md",
+                "file": "IHC/VIDEO PROTOTIPADO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +88,15 @@
   },
   "active": "55f855adbf499d0f",
   "lastOpenFiles": [
-    "BBDD/Modelo Logico.md",
-    "DSW/Semana 9 - Patrones de Diseño.md",
-    "SO/S? -.md",
-    "ACSW/S9 - Aseguramiento de la Calidad en los Estandares de Calidad.md",
-    "GCSW/Semana 9 -.md",
-    "IHC/Semana 11 - Auditoria.md",
-    "IHC/Semana 10 - Evaluacion y Pruebas de Interfaces.md",
-    "SO/Semana 3.md",
+    "IHC/VIDEO PROTOTIPADO.md",
+    "SO/Semana 9 - Comunicacion y Sincronizacion de Procesos.md",
+    "SO/Semana 7.md",
+    "SO/Semana 3 - Estructura de los SO.md",
+    "SO/Semana 4  - Procesos.md",
+    "SO/Semana 2 - Historia de los SO.md",
     "SO/Semana 1 - Sistemas operativos.md",
-    "ACSW/S7 - Pruebas de Software.md"
+    "IHC/VIDEO ACCESIBILIDAD.md",
+    "IHC/Semana 13 -.md",
+    "GCSW/Semana 13 -.md"
   ]
 }
