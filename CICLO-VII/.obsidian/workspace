@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
+            "file": "BD-2/Semana 1 -.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "60d85063ac537a21",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
+                "file": "BD-2/Semana 1 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "cc627aaa1a70d03b",
   "lastOpenFiles": [
+    "BD-2/Semana 1 -.md",
     "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
     "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",
     "img/Pasted image 20220517183932.png",
