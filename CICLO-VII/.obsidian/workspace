@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cc627aaa1a70d03b",
+        "id": "bbdcb0f27f31cf3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BD-2/Semana 1 -.md",
+            "file": "IA/semana 3 - Introduccion a la Regresion Lineal.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "60d85063ac537a21",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD-2/Semana 1 -.md",
+                "file": "IA/semana 3 - Introduccion a la Regresion Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc627aaa1a70d03b",
+  "active": "bbdcb0f27f31cf3d",
   "lastOpenFiles": [
-    "BD-2/Semana 1 -.md",
-    "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
-    "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",
-    "img/Pasted image 20220517183932.png",
-    "img/Pasted image 20220517191843.png",
-    "METODOS FORMALES/Semana 1 - Introduccion.md",
+    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
+    "REDES/Semana 1 - Introduccion.md",
+    "UX-UI/Semana 2 - Experiencia de Usuario.md",
+    "UX-UI/Semana 1 - Creatividad.md",
+    "ARQUITECTURA DE SOFTWARE/Semana 2 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 2.md",
     "ARQUITECTURA DE SOFTWARE/Semana 1 - Introduccion.md",
-    "IA/Semana 1 - Introduccion.md",
-    "GESTION DE PROYECTOS SOFTWARE/Semana 1 -.md",
-    "UX-UI/Semana 1 - Creatividad.md"
+    "REDES/aaa.pdf",
+    "BD-2/Semana 1 -.md",
+    "IA/Semana 2 - Data Science Big Data y Data Analytics.md"
   ]
 }
