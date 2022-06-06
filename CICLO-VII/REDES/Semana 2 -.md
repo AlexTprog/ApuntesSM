@@ -1,0 +1,1 @@
+¿Que dispositivo tengo en casa router/modem?

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IA/semana 3 - Introduccion a la Regresion Lineal.md",
+            "file": "ARQUITECTURA DE SOFTWARE/Semana 4 - ROL del arquitecto de SW.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 276,
     "collapsed": true
   },
   "right": {
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/semana 3 - Introduccion a la Regresion Lineal.md",
+                "file": "ARQUITECTURA DE SOFTWARE/Semana 4 - ROL del arquitecto de SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "bbdcb0f27f31cf3d",
   "lastOpenFiles": [
-    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
-    "REDES/Semana 1 - Introduccion.md",
-    "UX-UI/Semana 2 - Experiencia de Usuario.md",
-    "UX-UI/Semana 1 - Creatividad.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 2 -.md",
-    "GESTION DE PROYECTOS SOFTWARE/Semana 2.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 1 - Introduccion.md",
-    "REDES/aaa.pdf",
+    "ARQUITECTURA DE SOFTWARE/Semana 4 - ROL del arquitecto de SW.md",
+    "ARQUITECTURA DE SOFTWARE/Semana 3 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 4 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 3 - Ciclo de vida de proyecto vs Producto.md",
+    "BD-2/Semana 4 -.md",
     "BD-2/Semana 1 -.md",
-    "IA/Semana 2 - Data Science Big Data y Data Analytics.md"
+    "METODOS FORMALES/Semana 4 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 2.md",
+    "ARQUITECTURA DE SOFTWARE/Semana 2 -.md",
+    "REDES/Semana 2 -.md"
   ]
 }
