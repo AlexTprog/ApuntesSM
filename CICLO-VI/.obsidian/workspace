@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IHC/VIDEO PROTOTIPADO.md",
-            "mode": "source"
+            "file": "DSW/Semana 4 -.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IHC/VIDEO PROTOTIPADO.md",
+                "file": "DSW/Semana 4 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "55f855adbf499d0f",
   "lastOpenFiles": [
+    "DSW/Semana 4 -.md",
+    "DSW/Semana 9 - Patrones de Diseño.md",
+    "DSW/Semana 7.md",
+    "DSW/Semana 3 - Modularidad.md",
+    "DSW/Semana 2 - Arquitectura de Software.md",
+    "DSW/Semana 1 - Diseño de Software.md",
     "IHC/VIDEO PROTOTIPADO.md",
     "SO/Semana 9 - Comunicacion y Sincronizacion de Procesos.md",
     "SO/Semana 7.md",
-    "SO/Semana 3 - Estructura de los SO.md",
-    "SO/Semana 4  - Procesos.md",
-    "SO/Semana 2 - Historia de los SO.md",
-    "SO/Semana 1 - Sistemas operativos.md",
-    "IHC/VIDEO ACCESIBILIDAD.md",
-    "IHC/Semana 13 -.md",
-    "GCSW/Semana 13 -.md"
+    "SO/Semana 3 - Estructura de los SO.md"
   ]
 }
