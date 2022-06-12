@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BD-2/Semana 5 -.md",
+            "file": "REDES/Semana 5 -.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD-2/Semana 5 -.md",
+                "file": "REDES/Semana 5 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "bbdcb0f27f31cf3d",
   "lastOpenFiles": [
+    "REDES/Semana 5 -.md",
     "BD-2/Semana 5 -.md",
     "METODOS FORMALES/Semana 5 -.md",
     "ARQUITECTURA DE SOFTWARE/Semana 2 -.md",
@@ -98,7 +99,6 @@
     "ARQUITECTURA DE SOFTWARE/Semana 1 - Introduccion.md",
     "GESTION DE PROYECTOS SOFTWARE/Semana 3 - Ciclo de vida de proyecto vs Producto.md",
     "GESTION DE PROYECTOS SOFTWARE/Semana 4 -.md",
-    "BD-2/Semana 4 -.md",
-    "BD-2/Semana 1 -.md"
+    "BD-2/Semana 4 -.md"
   ]
 }
