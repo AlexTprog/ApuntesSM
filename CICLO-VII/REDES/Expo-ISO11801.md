@@ -26,22 +26,23 @@ Por ejemplo:
 -  sistemas para edificios inteligentes  
 -  comunicación entre aparatos ("IoT")
 
+
+La siguiente tabla ofrece una sinopsis sobre las categorias de desempeño estandarizadas para el cableado metalico, los protocolos de transferencia soportados y los tipo de ambito para los cuales estan establecidos.
+
+> Cat 3 no se presenta en la tabla pues se usa exclusivamente para conducir servicios de voz y no  pertenece universalmente al cableado estructurado
+
 ![[Pasted image 20220614230341.png]]
 
 
-## Estructura
-**![](https://lh4.googleusercontent.com/xYiBwvvOEyVVRrAXosWXnQPbdCuZubwilggQZ2Ih35mF3VyW31PzNYTzunu8BrpTDqOmOXFyY9sWH9ZwsW2swNsNPlto3rZE16rtXWNwqXsV2_XH2abXS-iWTZw_xyRwV9WNG5LV16wAevYw5ZK5cA)
 
-**Subsistema de cableado espinazo campus**
-
-**Subsistema de cableado espinazo edificio**
-
-**Subsistema de cableado Horizontal**
 
 ## Alcance
-- Fue diseñado para uso comercial.
-- Fue optimizado para ser usao hasta a 3km de distancia, hata 1km2 de espacio de oficinas, con entre 50 y 50000 personas
-- Cubre vinvulos 1,2Ghz para aplicaciones de TV por cable y TV por satelite
+- El estándar fue diseñado para su uso en locales comerciales que pueden consistir en un solo edificio o en varios edificios en un campus.     
+-  Se optimizó para locales de hasta 3 km, hasta 1 km 2 de oficinas, con entre 50 y 50.000 personas, pero también se puede aplicar para instalaciones fuera de este rango. 
+- Cubre tambien vinculos de 1,2 GHz para aplicaciones de TV por cables y TV por satelite.
+- En noviembre de 2017 se publicó una revisión importante que unifica los requisitos para las redes comerciales, domésticas e industriales.
 
-Este estándar fue diseñado para uso comercial el cual puede consistir en uno o múltiples edificios en un campus.  
-Fue optimizado para utilizaciones que necesitan hasta 3 km de distancia, hasta 1 km² de espacio de oficinas, con entre 50 y 50.000 personas. Pero también puede ser aplicado para instalaciones fuera de este rango.
+Debemos tener en cuenta que existen estandares que especifican mas en algunos aspectos
+- Un estándar correspondiente para el entorno de _oficinas pequeñas y oficinas en el hogar_ (SOHO ) es ISO / IEC 15018, que también cubre enlaces de 1,2  GHz para aplicaciones de televisión por cable y satélite.
+- Un estándar correspondiente para el entorno industrial es el estándar ISO / IEC.
+- Una especificación más precisa para los [centros de](https://es.frwiki.wiki/wiki/Centre_de_traitement_des_donn%C3%A9es "Centro de datos") datos se define en [ISO / IEC 24764](https://es.frwiki.wiki/w/index.php?title=ISO/CEI_24764&action=edit&redlink=1 "ISO / IEC 24764 (la página no existe)") .

@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "60d85063ac537a21",
@@ -91,14 +90,14 @@
   "active": "4a22bd7b17864e48",
   "lastOpenFiles": [
     "REDES/Expo-ISO11801.md",
-    "METODOS FORMALES/Semana 6.md",
+    "UX-UI/Semana 1 - Creatividad.md",
+    "UX-UI/Semana 6 -.md",
+    "img/Pasted image 20220614230341.png",
+    "REDES/aaa.pdf",
     "REDES/Semana 5 -.md",
+    "BD-2/Semana 6 - Optimizacion de consultas 2.md",
     "BD-2/Semana 5 -.md",
-    "METODOS FORMALES/Semana 5 -.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 2 -.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 3 -.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 4 - ROL del arquitecto de SW.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 1 - Introduccion.md",
-    "GESTION DE PROYECTOS SOFTWARE/Semana 3 - Ciclo de vida de proyecto vs Producto.md"
+    "METODOS FORMALES/Semana 6.md",
+    "METODOS FORMALES/Semana 5 -.md"
   ]
 }
