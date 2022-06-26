@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "REDES/Expo-ISO11801.md",
+            "file": "REDES/Expo-Etherned.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "right": {
     "id": "60d85063ac537a21",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Expo-ISO11801.md",
+                "file": "REDES/Expo-Etherned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "4a22bd7b17864e48",
   "lastOpenFiles": [
+    "REDES/Expo-Etherned.md",
     "REDES/Expo-ISO11801.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 6 -.md",
     "UX-UI/Semana 1 - Creatividad.md",
     "UX-UI/Semana 6 -.md",
     "img/Pasted image 20220614230341.png",
     "REDES/aaa.pdf",
     "REDES/Semana 5 -.md",
     "BD-2/Semana 6 - Optimizacion de consultas 2.md",
-    "BD-2/Semana 5 -.md",
-    "METODOS FORMALES/Semana 6.md",
-    "METODOS FORMALES/Semana 5 -.md"
+    "BD-2/Semana 5 -.md"
   ]
 }
