@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "METODOS FORMALES/Semana 5 - Notacion Z.md",
+            "file": "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METODOS FORMALES/Semana 5 - Notacion Z.md",
+                "file": "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a9766a5c6191653d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,10 +105,10 @@
   },
   "active": "4a22bd7b17864e48",
   "lastOpenFiles": [
+    "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
     "METODOS FORMALES/Semana 5 - Notacion Z.md",
     "METODOS FORMALES/Semana 4 - Metodos Formales.md",
     "METODOS FORMALES/Semana 1 - Introduccion a  Pruebas de Software.md",
-    "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
     "METODOS FORMALES/Semana 7 - Fastest.md",
     "METODOS FORMALES/Semana 3 - Fundamentos de Pruebas de Software II.md",
     "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",

@@ -59,6 +59,18 @@ usuario':usuario \cup \{ usr? \} \\
 \end{aligned}
 $$
 
+Para que se pueda añadir una receta el usuario debe estar registrado
+
+![[Pasted image 20220626195658.png]]
+
+Para actualizar una receta si el usuario existe puede modificar los datos
+![[Pasted image 20220626195756.png]]
+Para borrar una receta debe existir el usaurio y la receta
+
+![[Pasted image 20220626195745.png]]
+
+Para obtener un listado de las recetas, si usa phi para consultar informacion. Teniendo un usuario registrado obtendremos un listado de recetas
+![[Pasted image 20220626195858.png]]
 ## Bibliografia
 [Video Notacion Z](https://www.youtube.com/watch?v=VELNFO_ECTE)
 
@@ -67,4 +79,4 @@ $$
 [Articulo](https://es.frwiki.wiki/wiki/Notation_Z)
 
 [Resumen de grupo](https://docs.google.com/document/d/1lLVkuCBF_QWw5o_4qf7e2tY_JiUe_VvLiJh5x71xfbc/edit)
-
+ 

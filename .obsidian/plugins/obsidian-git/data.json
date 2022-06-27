@@ -19,6 +19,6 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false
+  "differentIntervalCommitAndPush": true,
+  "changedFilesInStatusBar": true
 }

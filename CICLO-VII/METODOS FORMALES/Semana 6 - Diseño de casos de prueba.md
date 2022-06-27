@@ -62,8 +62,38 @@ Se identifican examinando cada condicion de entrada
 3. Economico: Solo pasos necesario
 4. Confiable y repetible: Ser experimento controlado con el que se obtiene el mismo resultado
 5. Rastreable: Saber que requisitos del caso de uso se prueban
-6. Medible: 
+6. Medible: Revisar si es medible o si no cumplecon estandares
 
 
 
-El sistema debe registrar correctamente los items en la base de datos
+## Formatos para CP
+
+> Un caso de prueba paso a paso tiende a ser más verbal, y el de matrices más numérico. A menudo, la ruta más productiva es utilizarlos todos. Los dos primeros se utilizan para las pruebas unitarias, de integración y del sistema; y el automatizado, para pruebas de regresión (Voas, 1993).
+
+1. Paso a paso
+Es utilizado en la mayoria de reglas de procesamiento
+Casos de pruebas unicos y diferentes  Interfaces GUI
+Escenarios de movimiento en interfaces diferentes
+Entradas y salidas complicadas para representar en matrices
+2. Matrices
+Formularios con informacion variada, campos, valores  y archivos de diferentes entradas
+Mismas entradas, diferetnes plataformas, navegadores y configuracion
+Pantalla basada en caracteres
+Entras y salidas con mejor presentacion matricial
+3. Scripts automatizados
+Su uso depende de la organizacion y del proyecto
+Existen cuestiones tecnicas entre las herramietas que pueden usarse.
+El beneficio se obtiene en la fase de mantenimiento, en ese momento los scripts se pueden ejecutar repetidamente, y el ahorro de recursos es considerable
+
+## Mitos y realidades
+![[Pasted image 20220626201844.png]]
+
+## Plantillas
+**Caso de prueba**
+![[Pasted image 20220626201337.png]]
+
+**Matrices**
+![[Pasted image 20220626201402.png]]
+
+**Checklist para la calidad de una caso de prueba**
+![[Pasted image 20220626201444.png]]
