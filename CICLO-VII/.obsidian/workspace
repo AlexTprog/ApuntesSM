@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4a22bd7b17864e48",
+        "id": "e9527bd3b1089b4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
+            "file": "IA/Semana 7 - KNN.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
+                "file": "IA/Semana 7 - KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4a22bd7b17864e48",
+  "active": "e9527bd3b1089b4b",
   "lastOpenFiles": [
-    "METODOS FORMALES/Semana 6 - Diseño de casos de prueba.md",
-    "METODOS FORMALES/Semana 5 - Notacion Z.md",
-    "METODOS FORMALES/Semana 4 - Metodos Formales.md",
-    "METODOS FORMALES/Semana 1 - Introduccion a  Pruebas de Software.md",
-    "METODOS FORMALES/Semana 7 - Fastest.md",
-    "METODOS FORMALES/Semana 3 - Fundamentos de Pruebas de Software II.md",
-    "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",
-    "METODOS FORMALES/MetodosFormales-Parcial.pdf",
-    "REDES/Expo-Etherned.md",
-    "REDES/Expo-ISO11801.md"
+    "IA/Semana 7 - KNN.md",
+    "IA/Semana 4 - Regresion Lineal.md",
+    "IA/Semana 5 - Regresion Logistica.md",
+    "IA/Semana 6 - Matroz de Confusion.md",
+    "IA/Semana 1 - Introduccion.md",
+    "Untitled.md",
+    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
+    "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
+    "METODOS FORMALES/Diapositivas/MetodosFormales-1-7.pdf",
+    "REDES/aaa.pdf"
   ]
 }
