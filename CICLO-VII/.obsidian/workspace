@@ -4,14 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9527bd3b1089b4b",
+        "id": "51404f272040b780",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IA/Semana 7 - KNN.md",
+            "file": "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "e1002b319408f387",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "METODOS FORMALES/Diapositivas/Semana 2.pdf"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/Semana 7 - KNN.md",
+                "file": "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9527bd3b1089b4b",
+  "active": "51404f272040b780",
   "lastOpenFiles": [
-    "IA/Semana 7 - KNN.md",
-    "IA/Semana 4 - Regresion Lineal.md",
-    "IA/Semana 5 - Regresion Logistica.md",
-    "IA/Semana 6 - Matroz de Confusion.md",
-    "IA/Semana 1 - Introduccion.md",
+    "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
+    "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",
+    "METODOS FORMALES/Semana 3 - Fundamentos de Pruebas de Software II.md",
+    "METODOS FORMALES/Diapositivas/Semana 2.pdf",
+    "METODOS FORMALES/Semana 1 - Introduccion a  Pruebas de Software.md",
     "Untitled.md",
-    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
-    "IA/Semana 2 - Data Science Big Data y Data Analytics.md",
-    "METODOS FORMALES/Diapositivas/MetodosFormales-1-7.pdf",
-    "REDES/aaa.pdf"
+    "METODOS FORMALES/Semana 7 - Fastest.md",
+    "BD-2/Semana 7 - Mantenimiento de BD.md",
+    "BD-2/Semana 6 - Optimizacion de consultas.md",
+    "BD-2/Semana 5 - Indexacion.md"
   ]
 }

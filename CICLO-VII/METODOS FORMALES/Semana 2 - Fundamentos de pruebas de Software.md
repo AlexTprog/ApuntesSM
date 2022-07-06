@@ -1,12 +1,15 @@
-## Software vs Otras industrias
-- El desarrollo del software se diferencia del desarrollo de otros productos, principalmente por ser intangible.
-- Por ej: la cantidad de lineas de codigo no es un indicador claro del avance del software.
-- Algunas clausulas ISO son dificles de interpretar para el software
+# Desarrollo de Software vs Otras industrias
+## Caracteristicas del desarrollo sw?
+- El desarrollo del software trae como resultado un producto intangible por lo que realizar una medicion de su progreso resulta complica.
+- Las normas ISO 9000 tiene clausulas refentes al uso de materias primas no aplicables al ds sw
+
+> Por ej: la cantidad de lineas de codigo no es un indicador claro del avance del software.
+
 
 
 ## Software Testeability
 
-Como saber cuan testeable es un software?
+### Como saber cuan testeable es un software?
 
 1. **Controlabilidad** el proceso de prueba se puede optimizar solo si podemos controlarlo
 2. **Observabilidad** lo que se "ve" es lo que se puede probar
@@ -15,20 +18,37 @@ Como saber cuan testeable es un software?
 5. **Estabilidad** Se necesita un periodo para congelar versiones y realizar pruebas
 6. **Informacion** la eficacion de las pruebas depende en gran medida  de la cantidad de infomracion disponible
 
-a mayor capacidad de pruebas significa mejores pruebas y menor cantidad de errores
+> A mayor capacidad de pruebas significa mejores pruebas y menor cantidad de errores
+> A una menor capacidad de prueba significa que las pruebas no son de gran calidad y existe la posiblidad que haya errores en el sistema
 
-A una menor capacidad de prueba significa que las pruebas no son de gran calidad y existe la posiblidad que haya errores en el sistema
+
 
 ![[Pasted image 20220517183932.png]]
 
-## 7 principios
+### En que contexto se realizan pruebas de software?
+![[Pasted image 20220705181546.png]]
+## Existen  7 principios para las pruebas de sw
+**1. Pruebas demuestran la presencia de defectos, no ausencia**
 
-1. Pruebas demuestran la presencial de defectos
-2. Pruebas exhaustivas no existen o son imposibles
-3. Pruebas tempranas ahorran tiempo y dinero
-4. Agrupacion de defectos
+> Nunca se puede afirmar que un software carecer de defectos, las pruebas que realicemos deben ser capaces de encontrar defectos pero aunque realicemos muchas pruebas no podemos asegurar que no existen errores.
+
+**2. Pruebas exhaustivas no existen o son imposibles**
+
+> Por lo general no podremos pobrar todas las combinaciones de entradas y precondiciones, solo en  casos simples. Debemos hacer uso del analisis de riesgos ,tecnicas de pruebas y estabalecer prioridades para en la realizacion de pruebas.
+> EJ: Realizar para el caso de un formulario con 10 campos y 6 opciones en cada campo, el numero de pruebas serial 10^6 
+
+**3. Pruebas tempranas ahorran tiempo y dinero**
+
+> El realizar pruebas de software en etapas tempranas del desarrollo permite la reduccion de costos (monetarios y tiempo), encontrar un error en la etapa de despliegue cuesta 30 veces mas que si se encuentra durante el diseño
+
+**4. Agrupacion de defectos**
+
+>
+
 5. Tener cuidado con la paradojas del pesticida
+
 6. Dependen del contexto
+
 7. Falacia de ausencia de errores
 
 
