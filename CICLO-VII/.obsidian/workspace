@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "51404f272040b780",
+        "id": "9527ad0ffe3e13b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
+            "file": "IA/Semana 9 - Introduccion a metodos con arboles.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "e1002b319408f387",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "METODOS FORMALES/Diapositivas/Semana 2.pdf"
           }
         }
       }
@@ -63,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 314,
+    "collapsed": true
   },
   "right": {
     "id": "60d85063ac537a21",
@@ -79,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
+                "file": "IA/Semana 9 - Introduccion a metodos con arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51404f272040b780",
+  "active": "9527ad0ffe3e13b2",
   "lastOpenFiles": [
-    "METODOS FORMALES/Semana 9 - Proceso de pruebas - Pruebas Unitarias.md",
-    "METODOS FORMALES/Semana 2 - Fundamentos de pruebas de Software.md",
-    "METODOS FORMALES/Semana 3 - Fundamentos de Pruebas de Software II.md",
-    "METODOS FORMALES/Diapositivas/Semana 2.pdf",
-    "METODOS FORMALES/Semana 1 - Introduccion a  Pruebas de Software.md",
-    "Untitled.md",
-    "METODOS FORMALES/Semana 7 - Fastest.md",
-    "BD-2/Semana 7 - Mantenimiento de BD.md",
-    "BD-2/Semana 6 - Optimizacion de consultas.md",
-    "BD-2/Semana 5 - Indexacion.md"
+    "IA/Semana 9 - Introduccion a metodos con arboles.md",
+    "IA/Diapositivas/IA-Semana1_7.pdf",
+    "IA/Diapositivas/IA-Semana5.pdf",
+    "IA/Diapositivas/IA-Semana4.pdf",
+    "IA/Semana 4 - Regresion Lineal.md",
+    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
+    "IA/Diapositivas/IA-Semana3.pdf",
+    "Pasted image 20220706172615.png[[.md",
+    "Pasted image 20220706172615.png[500x500.md",
+    "IA/Semana 2 - Data Science Big Data y Data Analytics.md"
   ]
 }
