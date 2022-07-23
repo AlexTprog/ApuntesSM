@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9527ad0ffe3e13b2",
+        "id": "0ceda5003451739a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IA/Semana 9 - Introduccion a metodos con arboles.md",
+            "file": "REDES/EXPO PROTOCOLO ARP.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/Semana 9 - Introduccion a metodos con arboles.md",
+                "file": "REDES/EXPO PROTOCOLO ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9527ad0ffe3e13b2",
+  "active": "0ceda5003451739a",
   "lastOpenFiles": [
-    "IA/Semana 9 - Introduccion a metodos con arboles.md",
-    "IA/Diapositivas/IA-Semana1_7.pdf",
-    "IA/Diapositivas/IA-Semana5.pdf",
-    "IA/Diapositivas/IA-Semana4.pdf",
-    "IA/Semana 4 - Regresion Lineal.md",
-    "IA/semana 3 - Introduccion a la Regresion Lineal.md",
-    "IA/Diapositivas/IA-Semana3.pdf",
-    "Pasted image 20220706172615.png[[.md",
-    "Pasted image 20220706172615.png[500x500.md",
-    "IA/Semana 2 - Data Science Big Data y Data Analytics.md"
+    "REDES/Expo-Etherned.md",
+    "REDES/Expo-ISO11801.md",
+    "REDES/Semana 1 - Introduccion.md",
+    "REDES/Semana 2 -.md",
+    "REDES/Semana 5 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 10 - Gestion del Cronograma.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 6 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 4 -.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 3 - Ciclo de vida de proyecto vs Producto.md",
+    "GESTION DE PROYECTOS SOFTWARE/Semana 2.md"
   ]
 }

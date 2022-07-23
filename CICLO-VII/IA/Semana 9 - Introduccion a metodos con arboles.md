@@ -15,3 +15,26 @@ Con el caso presentado anteriormente podemos predecir de manera intuitiva lo sig
 - Raiz: Primer nodo
 - Hojas: Nodos terminales que predicen el resultado
 
+## Bosques aleatorios
+Se puede mejorar el rendimiento haciendo uso de muchos arboles con una muestra aleatoria con caracteristicas elegidas para la division.
+
+- Se elige una muestra aleatoria de caracteristicas para cada arbol en cada division
+- Trabajo tanto para tareas de clasificacion como de regresion
+
+### Como funcionan?
+La determinación del promedio de cantidades altamente correlacionadas no reduce significativamente la varianza.
+
+Al omitir aleatoriamente las características candidatas de cada división, Random Forests "descorrelaciona" los árboles, de modo que el proceso de determinación de promedios puede reducir la varianza del modelo resultante.
+
+### Arboles reforzados con gradiente
+El aumento de gradiente involucra tres elementos:
+- Una función de pérdida para ser optimizada.
+	- Es la función/ecuación que utilizará para determinar qué tan lejos están sus predicciones.
+	* Ej: la regresión puede usar un error cuadrado y la clasificación puede usar la pérdida logarítmica. (No tendremos que lidiar con esto directamente usando Python)
+- Un aprendiz débil para hacer predicciones.
+	- Los árboles de decisión se utilizan como el aprendiz débil en el aumento de gradiente.
+	- Es común restringir a los aprendices débiles: tal como un número máximo de capas, nodos, divisiones o nodos de hoja.
+- Un modelo aditivo para agregar aprendices débiles para minimizar la función de pérdida.
+
+
+

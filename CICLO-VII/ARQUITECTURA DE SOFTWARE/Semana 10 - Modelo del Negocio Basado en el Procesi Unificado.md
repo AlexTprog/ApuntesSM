@@ -1,0 +1,5 @@
+# Modelo de Negocio basado de el proceso unificado
+
+## Caso practico: Alquiler de videos
+La empresa de alquiler de Videos „El cumplido“, se caracteriza por brindar a la clientela un servicio a tiempo, la empresa cuenta con el área de gestión de reservas, gestión de alquiler, gestión de devolución y gestión de abastecimiento. La empresa desea optimizar el proceso de alquiler de videos, para ello ha incorporado estrategias que le permita reducir el tiempo de atención al socio en un 25% en relación al año 2020, también se han planteado el objetivo de reducir en un 30% el número de videos devueltos fuera del plazo en relación al año 2020. La empresa cuenta con una excelente cartera de proveedores cinematográficos, con la finalidad de garantizar la primicia en sus entregas. Se debe mencionar además que la empresa tiene un estricto control de sus recepcionistas, responsable de sanciones, responsable de adquisiciones y el encargado de finanzas. A la empresa le interesa tener un control al detalle de las siguientes actividades: alquiler de videos, control de empleados, control de recursos, control de reservas, control de sanciones y control de socios.
+
