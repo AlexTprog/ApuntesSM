@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0ceda5003451739a",
+        "id": "67e71c4d70080f80",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "BD-2/Diapositivas/Clase 9 BD II.pdf"
+          }
+        }
+      },
+      {
+        "id": "1eac4683264ed3c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BD-2/Semana 1 - Introduccion.md",
+            "file": "BD-2/Semana 9 - Integridad Referencial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD-2/Semana 1 - Introduccion.md",
+                "file": "BD-2/Semana 9 - Integridad Referencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ceda5003451739a",
+  "active": "1eac4683264ed3c5",
   "lastOpenFiles": [
-    "BD-2/Semana 2 - Seguridad en BD.md",
-    "BD-2/Semana 3 - Creación de Usuarios, Permisos y Roles.md",
-    "BD-2/Semana 4 - Procesamiento y Optimizacion de Consultas.md",
-    "BD-2/Semana 5 - Indexacion.md",
-    "BD-2/Semana 6 - Optimizacion de consultas.md",
-    "BD-2/Semana 7 - Mantenimiento de BD.md",
+    "BD-2/Diapositivas/Clase 9 BD II.pdf",
     "BD-2/Semana 9 - Integridad Referencial.md",
-    "BD-2/Semana 14.md",
-    "BD-2/Semana 1 - Introduccion.md",
-    "ARQUITECTURA DE SOFTWARE/Semana 9 -Arquitectura RUP - MCUN.md"
+    "BD-2/Diapositivas/Clase 7 BD II.pdf",
+    "BD-2/Semana 7 - Mantenimiento de BD.md",
+    "BD-2/Semana 6 - Optimizacion de consultas.md",
+    "BD-2/Diapositivas/Clase 5-6 BD II.pdf",
+    "BD-2/Semana 5 - Indexacion.md",
+    "BD-2/Semana 4 - Procesamiento y Optimizacion de Consultas.md",
+    "UX-UI/Semana 2 - Experiencia de Usuario.md",
+    "UX-UI/Semana 6 -.md"
   ]
 }

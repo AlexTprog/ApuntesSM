@@ -3,7 +3,7 @@
 import numpy as np
 import argparse
 import imutils
-import cv2
+import cv2  #opencv 
 
 # Construye el analizador de argumentos y analiza los argumentos
 ap = argparse.ArgumentParser()
