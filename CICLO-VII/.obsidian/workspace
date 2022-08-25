@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67e71c4d70080f80",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "BD-2/Diapositivas/Clase 9 BD II.pdf"
-          }
-        }
-      },
-      {
-        "id": "1eac4683264ed3c5",
+        "id": "514cabfecfabe20f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BD-2/Semana 9 - Integridad Referencial.md",
+            "file": "METODOS FORMALES/Semana 12 - TEST LINK Diseño de Casos de Prueba.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD-2/Semana 9 - Integridad Referencial.md",
+                "file": "METODOS FORMALES/Semana 12 - TEST LINK Diseño de Casos de Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1eac4683264ed3c5",
+  "active": "514cabfecfabe20f",
   "lastOpenFiles": [
-    "BD-2/Diapositivas/Clase 9 BD II.pdf",
-    "BD-2/Semana 9 - Integridad Referencial.md",
-    "BD-2/Diapositivas/Clase 7 BD II.pdf",
-    "BD-2/Semana 7 - Mantenimiento de BD.md",
-    "BD-2/Semana 6 - Optimizacion de consultas.md",
-    "BD-2/Diapositivas/Clase 5-6 BD II.pdf",
-    "BD-2/Semana 5 - Indexacion.md",
-    "BD-2/Semana 4 - Procesamiento y Optimizacion de Consultas.md",
-    "UX-UI/Semana 2 - Experiencia de Usuario.md",
-    "UX-UI/Semana 6 -.md"
+    "METODOS FORMALES/Semana 11 - Sonarqube.md",
+    "METODOS FORMALES/Semana 10 - Procesos y Plan de Pruebas.md",
+    "METODOS FORMALES/Semana 12 - TEST LINK Diseño de Casos de Prueba.md",
+    "METODOS FORMALES/Untitled.md",
+    "METODOS FORMALES/Semana 13 - TEST LINK - Requerimientos y casos de prueba.md",
+    "REDES/EXPO PROTOCOLO ARP.md",
+    "REDES/Expo-Etherned.md",
+    "REDES/Expo-ISO11801.md",
+    "UX-UI/EXPO S15.md",
+    "UX-UI/Semana 3 - Expos.md"
   ]
 }
