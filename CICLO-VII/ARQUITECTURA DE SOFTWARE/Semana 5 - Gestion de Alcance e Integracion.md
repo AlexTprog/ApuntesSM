@@ -129,3 +129,4 @@ Controlar 🡪 Consiste en determinar acciones preventivas o correctivas y hacer
 2. observacione adicionales
 3. aceptador por
 4. distribuido por
+

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "47bed1e3eefa0b3f",
+        "id": "804ee5db9bfbbe59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingles/1. Estrategias para aprender Ingles Online.md",
+            "file": "Ingles/A1. Simple Present And Vocabulary.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25ef488197f39e32",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/1. Estrategias para aprender Ingles Online.md",
+                "file": "Ingles/A1. Simple Present And Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/1. Estrategias para aprender Ingles Online.md",
+                "file": "Ingles/A1. Simple Present And Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/1. Estrategias para aprender Ingles Online.md"
+                "file": "Ingles/A1. Simple Present And Vocabulary.md"
               }
             }
           }
@@ -129,9 +128,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47bed1e3eefa0b3f",
+  "active": "804ee5db9bfbbe59",
   "lastOpenFiles": [
-    "Ingles/0. Apuntes.md",
-    "Ingles/1. Estrategias para aprender Ingles Online.md"
+    "Ingles/A1. Simple Present And Vocabulary.md",
+    "Ingles/estrategias-de-estudio.pdf",
+    "Java/Java Doc.md",
+    "Java/Screen Shot 2019-07-08 at 4.webp",
+    "Screen Shot 2019-07-08 at 4.webp",
+    "Ingles/1. Estrategias para aprender Ingles Online.md",
+    "Ingles/0. Apuntes.md"
   ]
 }
