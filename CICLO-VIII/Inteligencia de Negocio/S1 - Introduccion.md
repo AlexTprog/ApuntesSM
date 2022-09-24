@@ -32,3 +32,5 @@ La construccion de una solucion DW/BU es compleja y kimball nos propone una meto
 Divide el proceso de 5 fases, las cuales muestran actividades a realizar para que los datos sean transformados en informacion util, novedosa y que aporte conocimiento nuevo para la toma de decisiones.
 
 ![[Pasted image 20220917100723.png]]
+
+## Arquitecturas basicas de una solucion
