@@ -6,7 +6,7 @@
 
 ## Que usos tiene?
 **Negocios**
-- Para la fidelizacion del cliente para que presenten mayor probabilidad de responder positivamente a una determinada oferta o promocion.
+- Para la fidelizacion del cliente para que presenten mayor probabilidad de responder positivamente a una determinada oferta o promocion.qqqqqqqqqqqqqqqq
 
 **Habitos de compra**
 - Permite detectar habitos de compra de los clientes en centros de compra en determinados dias, se evalua que producto es mas vendido para focalizar la venta en ese punto
