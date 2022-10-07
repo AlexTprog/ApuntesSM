@@ -1,12 +1,11 @@
-#include<iostream>
-#include<omp.h>
+#include <iostream>
+#include <omp.h>
 
 using namespace std;
 
-int main(){
+int main() {
 #pragma omp parallel
-  {
-      cout<<"Hello"<<"world!"<< endl;
-  }
+  {//
+    cout << "Hello"<< "world!" << endl;
+  }//
 }
-
