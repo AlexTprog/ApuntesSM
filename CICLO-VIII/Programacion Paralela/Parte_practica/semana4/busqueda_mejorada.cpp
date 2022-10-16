@@ -14,11 +14,12 @@ int main() {
   for (int i = 0; i < n; i++) {
     int temp;
     cin >> temp;
-    A[i] = temp;
+    A.push_back(temp);
   }
 
   int NUM_THREADS = 2;
   omp_set_num_threads(NUM_THREADS);
+  auto start = std::steady_clock::now()
   int found = -1;
 #pragma omp parallel
   {
@@ -27,8 +28,13 @@ int main() {
       if (A[i] == x) {
         found = i;
       }
+      if(found>=0){
+        break;
+      }
     }
   }
+auto end = std::chrono::steady_clock::now();
+std::chrono::stedy_clock::now()
 
   if (found >= 0) {
     cout << "encontrado " << found << endl;

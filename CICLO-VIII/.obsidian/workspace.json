@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "621ae58de2b314b2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Seguridad de SW/S4 - Vulnerabilidades.md",
-            "mode": "source",
-            "source": false
+        "id": "311694dbb3757fdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621ae58de2b314b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mineria de Datos/S4 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a2025450aeeff6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inteligencia de Negocio/S5 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -61,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "8791bfe16a072c7e",
@@ -77,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad de SW/S4 - Vulnerabilidades.md",
+                "file": "Inteligencia de Negocio/S5 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad de SW/S4 - Vulnerabilidades.md",
+                "file": "Inteligencia de Negocio/S5 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seguridad de SW/S4 - Vulnerabilidades.md"
+                "file": "Inteligencia de Negocio/S5 -.md"
               }
             }
           }
@@ -128,17 +150,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "621ae58de2b314b2",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0a2025450aeeff6a",
   "lastOpenFiles": [
-    "Automatizacion/S1 - Introduccion.md",
-    "Automatizacion/S2 - Programacion de Automatas.md",
-    "Mineria de Datos/S4 -.md",
-    "Metologia de la Investigacion/S2 - Tener listo la hoja.md",
-    "Mineria de Datos/S3 -.md",
-    "Metologia de la Investigacion/S1 - Apuntes de Investigacion.md",
+    "Inteligencia de Negocio/S2 - Diseño de datamarts.md",
     "Mineria de Datos/S1 - Introduccion a la mineria de datos.md",
-    "Seguridad de SW/S2 - Seguridad de SW.md",
-    "Seguridad de SW/S1 - Introduccion.md",
-    "Mineria de Datos/S2 - Metodologias y Procesos de Mineria de Datos.md"
+    "Inteligencia de Negocio/S5 -.md",
+    "Mineria de Datos/S4 -.md",
+    "Seguridad de SW/S4 - Vulnerabilidades.md",
+    "Automatizacion/S2 - Programacion de Automatas.md",
+    "Automatizacion/S1 - Introduccion.md",
+    "2022-10-14.md",
+    "Metologia de la Investigacion/S2 - Tener listo la hoja.md",
+    "Mineria de Datos/S3 -.md"
   ]
 }
