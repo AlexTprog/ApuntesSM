@@ -1,0 +1,953 @@
+1666062371335	geckodriver	INFO	Listening on 127.0.0.1:47887
+1666062371339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46843" "-no-remote" "-profile" "/tmp/rust_mozprofilel5vt29"
+1666062374909	Marionette	INFO	Marionette enabled
+1666062374915	Marionette	INFO	Listening on port 43565
+WebDriver BiDi listening on ws://127.0.0.1:46843
+1666062375345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel5vt29/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46843/devtools/browser/b7a5616c-8c0b-41ef-8cc8-7d572927b372
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666062383437	Marionette	INFO	Stopped listening on port 43565
+1666062388351	geckodriver	INFO	Listening on 127.0.0.1:39255
+1666062388355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36263" "-no-remote" "-profile" "/tmp/rust_mozprofileTLzdd2"
+1666062388943	Marionette	INFO	Marionette enabled
+1666062388947	Marionette	INFO	Listening on port 41203
+WebDriver BiDi listening on ws://127.0.0.1:36263
+1666062389045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTLzdd2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36263/devtools/browser/25218dc1-3977-4130-8d56-f948599e9a17
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666062475935	Marionette	INFO	Stopped listening on port 41203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666065156148	geckodriver	INFO	Listening on 127.0.0.1:56135
+1666065156152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59027" "-no-remote" "-profile" "/tmp/rust_mozprofilepvsl56"
+1666065156680	Marionette	INFO	Marionette enabled
+1666065156683	Marionette	INFO	Listening on port 45641
+WebDriver BiDi listening on ws://127.0.0.1:59027
+1666065156878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepvsl56/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59027/devtools/browser/2c4dc8e9-903c-40b8-8b59-11ad9245ffd3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666065302910	Marionette	INFO	Stopped listening on port 45641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666065312618	geckodriver	INFO	Listening on 127.0.0.1:39793
+1666065312622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53029" "-no-remote" "-profile" "/tmp/rust_mozprofileUhLdCi"
+1666065313135	Marionette	INFO	Marionette enabled
+1666065313138	Marionette	INFO	Listening on port 43203
+WebDriver BiDi listening on ws://127.0.0.1:53029
+1666065313340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUhLdCi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53029/devtools/browser/b1f3398b-e169-497f-8035-d6831f312c80
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666065395658	Marionette	INFO	Stopped listening on port 43203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666065545016	geckodriver	INFO	Listening on 127.0.0.1:39231
+1666065545019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54215" "-no-remote" "-profile" "/tmp/rust_mozprofileY9ESGM"
+1666065545531	Marionette	INFO	Marionette enabled
+1666065545534	Marionette	INFO	Listening on port 37433
+WebDriver BiDi listening on ws://127.0.0.1:54215
+1666065545733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY9ESGM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54215/devtools/browser/2972c4ed-88d8-4a75-8edf-17b143c95f4f
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666065771783	Marionette	INFO	Stopped listening on port 37433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666065773386	geckodriver	INFO	Listening on 127.0.0.1:51991
+1666065773390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59447" "-no-remote" "-profile" "/tmp/rust_mozprofilePHMlKn"
+1666065773902	Marionette	INFO	Marionette enabled
+1666065773904	Marionette	INFO	Listening on port 34329
+WebDriver BiDi listening on ws://127.0.0.1:59447
+1666065774100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePHMlKn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59447/devtools/browser/a56c8ae2-02e2-4f23-bc82-8c79e51c708d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666065781010	Marionette	INFO	Stopped listening on port 34329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666065792433	geckodriver	INFO	Listening on 127.0.0.1:33037
+1666065792436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40731" "-no-remote" "-profile" "/tmp/rust_mozprofileG9exko"
+1666065792951	Marionette	INFO	Marionette enabled
+1666065792954	Marionette	INFO	Listening on port 35013
+WebDriver BiDi listening on ws://127.0.0.1:40731
+1666065793152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG9exko/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40731/devtools/browser/639b175f-5bc1-40b2-8ad3-0e6107638f6e
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666065966267	Marionette	INFO	Stopped listening on port 35013
+1666070062076	geckodriver	INFO	Listening on 127.0.0.1:40359
+1666070062080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42017" "-no-remote" "-profile" "/tmp/rust_mozprofile0XLejQ"
+1666070062601	Marionette	INFO	Marionette enabled
+1666070062603	Marionette	INFO	Listening on port 43727
+WebDriver BiDi listening on ws://127.0.0.1:42017
+1666070062800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0XLejQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42017/devtools/browser/fd384e8b-0737-4a24-a492-601f71b1b8ed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070091382	Marionette	INFO	Stopped listening on port 43727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666070096692	geckodriver	INFO	Listening on 127.0.0.1:41453
+1666070096696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55751" "-no-remote" "-profile" "/tmp/rust_mozprofilevBKGOm"
+1666070097224	Marionette	INFO	Marionette enabled
+1666070097227	Marionette	INFO	Listening on port 37495
+WebDriver BiDi listening on ws://127.0.0.1:55751
+1666070097400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevBKGOm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55751/devtools/browser/ad853501-c4e0-47d3-a37c-afced5f9b97b
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070138805	Marionette	INFO	Stopped listening on port 37495
+1666070140367	geckodriver	INFO	Listening on 127.0.0.1:59613
+1666070140370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33091" "-no-remote" "-profile" "/tmp/rust_mozprofiledEeP18"
+1666070140907	Marionette	INFO	Marionette enabled
+1666070140910	Marionette	INFO	Listening on port 40253
+WebDriver BiDi listening on ws://127.0.0.1:33091
+1666070141018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledEeP18/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33091/devtools/browser/9c2af322-f73b-4f2c-a5ce-872179a8016b
+1666070144035	Marionette	INFO	Stopped listening on port 40253
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070167440	geckodriver	INFO	Listening on 127.0.0.1:41737
+1666070167443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33589" "-no-remote" "-profile" "/tmp/rust_mozprofileGvjnlG"
+1666070167977	Marionette	INFO	Marionette enabled
+1666070167980	Marionette	INFO	Listening on port 39393
+WebDriver BiDi listening on ws://127.0.0.1:33589
+1666070168151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGvjnlG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33589/devtools/browser/77d75eff-8174-4989-a39e-8c7257b1e35d
+1666070171555	Marionette	INFO	Stopped listening on port 39393
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070512157	geckodriver	INFO	Listening on 127.0.0.1:36303
+1666070512160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37123" "-no-remote" "-profile" "/tmp/rust_mozprofilejuUoIA"
+1666070512702	Marionette	INFO	Marionette enabled
+1666070512705	Marionette	INFO	Listening on port 35679
+WebDriver BiDi listening on ws://127.0.0.1:37123
+1666070512811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejuUoIA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37123/devtools/browser/23bfed44-5473-4575-8d50-6f2259cf4348
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070557396	Marionette	INFO	Stopped listening on port 35679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666070558902	geckodriver	INFO	Listening on 127.0.0.1:34085
+1666070558906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48825" "-no-remote" "-profile" "/tmp/rust_mozprofileDLjxW4"
+1666070559442	Marionette	INFO	Marionette enabled
+1666070559445	Marionette	INFO	Listening on port 42729
+WebDriver BiDi listening on ws://127.0.0.1:48825
+1666070559556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDLjxW4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48825/devtools/browser/f7b04bbd-1ef0-4a2a-8320-f3f183182447
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666070570577	Marionette	INFO	Stopped listening on port 42729
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666070596060	geckodriver	INFO	Listening on 127.0.0.1:46255
+1666070596063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45839" "-no-remote" "-profile" "/tmp/rust_mozprofile5Ki5Zj"
+1666070596696	Marionette	INFO	Marionette enabled
+1666070596699	Marionette	INFO	Listening on port 46571
+WebDriver BiDi listening on ws://127.0.0.1:45839
+1666070596826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Ki5Zj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45839/devtools/browser/0a3f8dce-a1dd-41a9-aa38-23cb7bc14e16
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666070606964	Marionette	INFO	Stopped listening on port 46571
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1666070938645	geckodriver	INFO	Listening on 127.0.0.1:49035
+1666070938648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44053" "-no-remote" "-profile" "/tmp/rust_mozprofileGKL8YZ"
+1666070939293	Marionette	INFO	Marionette enabled
+1666070939296	Marionette	INFO	Listening on port 36161
+WebDriver BiDi listening on ws://127.0.0.1:44053
+1666070939411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKL8YZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44053/devtools/browser/49100532-4e03-43ae-bbba-be889270a7c6
+1666070944716	geckodriver	INFO	Listening on 127.0.0.1:36851
+1666070944720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58033" "-no-remote" "-profile" "/tmp/rust_mozprofile5wHRME"
+1666070945360	Marionette	INFO	Marionette enabled
+1666070945363	Marionette	INFO	Listening on port 33547
+WebDriver BiDi listening on ws://127.0.0.1:58033
+1666070945488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5wHRME/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58033/devtools/browser/7d65aa8d-3b40-4f89-bfe5-31619db3d87e
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666070956212	Marionette	INFO	Stopped listening on port 33547
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071010142	geckodriver	INFO	Listening on 127.0.0.1:37643
+1666071010146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56681" "-no-remote" "-profile" "/tmp/rust_mozprofilecA8Eqi"
+1666071010769	Marionette	INFO	Marionette enabled
+1666071010772	Marionette	INFO	Listening on port 34585
+WebDriver BiDi listening on ws://127.0.0.1:56681
+1666071010901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecA8Eqi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56681/devtools/browser/b9dc0d2c-5982-4695-8450-af16980fdb9c
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666071023952	Marionette	INFO	Stopped listening on port 34585
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071034020	geckodriver	INFO	Listening on 127.0.0.1:36333
+1666071034023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52171" "-no-remote" "-profile" "/tmp/rust_mozprofileikdFKK"
+1666071034653	Marionette	INFO	Marionette enabled
+1666071034658	Marionette	INFO	Listening on port 46149
+WebDriver BiDi listening on ws://127.0.0.1:52171
+1666071034783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileikdFKK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52171/devtools/browser/57ed40a7-4635-49da-b469-1aebf0e6caf0
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666071466675	geckodriver	INFO	Listening on 127.0.0.1:37719
+1666071466678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42653" "-no-remote" "-profile" "/tmp/rust_mozprofilerOHjzv"
+1666071467307	Marionette	INFO	Marionette enabled
+1666071467310	Marionette	INFO	Listening on port 41707
+WebDriver BiDi listening on ws://127.0.0.1:42653
+1666071467438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOHjzv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42653/devtools/browser/9b06b98d-0a49-4560-8108-f2b22906f6d3
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071469190	Marionette	INFO	Stopped listening on port 46149
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1666071550635	geckodriver	INFO	Listening on 127.0.0.1:46247
+1666071550642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56657" "-no-remote" "-profile" "/tmp/rust_mozprofile2rVKTC"
+1666071551274	Marionette	INFO	Marionette enabled
+1666071551277	Marionette	INFO	Listening on port 42673
+WebDriver BiDi listening on ws://127.0.0.1:56657
+1666071551402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2rVKTC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56657/devtools/browser/2cca86f1-5ec9-4bfb-9b44-b2639eb754ac
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071555487	Marionette	INFO	Stopped listening on port 41707
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1666071668223	geckodriver	INFO	Listening on 127.0.0.1:37001
+1666071668230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41467" "-no-remote" "-profile" "/tmp/rust_mozprofile5Wqp82"
+1666071668917	Marionette	INFO	Marionette enabled
+1666071668922	Marionette	INFO	Listening on port 37565
+WebDriver BiDi listening on ws://127.0.0.1:41467
+1666071669029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Wqp82/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41467/devtools/browser/e63df9c5-2844-4015-bcdd-2f26ed85825d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071672050	Marionette	INFO	Stopped listening on port 42673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666071806066	geckodriver	INFO	Listening on 127.0.0.1:43215
+1666071806070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53243" "-no-remote" "-profile" "/tmp/rust_mozprofileLVXAQo"
+1666071806685	Marionette	INFO	Marionette enabled
+1666071806690	Marionette	INFO	Listening on port 37785
+WebDriver BiDi listening on ws://127.0.0.1:53243
+1666071806904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLVXAQo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53243/devtools/browser/a91c2145-a294-4ce8-aa5f-85d5664dd590
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1666071990257	geckodriver	INFO	Listening on 127.0.0.1:58575
+1666071990261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45139" "-no-remote" "-profile" "/tmp/rust_mozprofilexOfTdy"
+1666071990876	Marionette	INFO	Marionette enabled
+1666071990879	Marionette	INFO	Listening on port 36515
+WebDriver BiDi listening on ws://127.0.0.1:45139
+1666071991092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexOfTdy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45139/devtools/browser/c7ef6872-8377-41d9-8ede-eb6df176b3bc
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666071996193	Marionette	INFO	Stopped listening on port 37785
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666072001212	Marionette	INFO	Stopped listening on port 36515
+1666072004734	geckodriver	INFO	Listening on 127.0.0.1:44825
+1666072004738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40621" "-no-remote" "-profile" "/tmp/rust_mozprofile3KvjD9"
+1666072005312	Marionette	INFO	Marionette enabled
+1666072005314	Marionette	INFO	Listening on port 45035
+WebDriver BiDi listening on ws://127.0.0.1:40621
+1666072005407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3KvjD9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40621/devtools/browser/c8f0d122-0339-4a40-8d74-5a9ccf1460b5
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666072030422	Marionette	INFO	Stopped listening on port 45035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666072030911	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1666072036674	geckodriver	INFO	Listening on 127.0.0.1:44407
+1666072036677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39813" "-no-remote" "-profile" "/tmp/rust_mozprofilemF3ttF"
+1666072037248	Marionette	INFO	Marionette enabled
+1666072037252	Marionette	INFO	Listening on port 44425
+WebDriver BiDi listening on ws://127.0.0.1:39813
+1666072037347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemF3ttF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39813/devtools/browser/8d6f4ccc-a257-427d-8362-86503d073d10
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666072379747	Marionette	INFO	Stopped listening on port 44425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666072383007	geckodriver	INFO	Listening on 127.0.0.1:45127
+1666072383011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43617" "-no-remote" "-profile" "/tmp/rust_mozprofilePgviQS"
+1666072383555	Marionette	INFO	Marionette enabled
+1666072383558	Marionette	INFO	Listening on port 38239
+WebDriver BiDi listening on ws://127.0.0.1:43617
+1666072383663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePgviQS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43617/devtools/browser/cd8b7844-4a2d-42f3-b940-235f6db4fd09
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666072392778	Marionette	INFO	Stopped listening on port 38239
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilePgviQS/protections.sqlite
+1666072637567	geckodriver	INFO	Listening on 127.0.0.1:34309
+1666072637571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57995" "-no-remote" "-profile" "/tmp/rust_mozprofilezOMhJo"
+1666072638119	Marionette	INFO	Marionette enabled
+1666072638122	Marionette	INFO	Listening on port 44149
+WebDriver BiDi listening on ws://127.0.0.1:57995
+1666072638226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezOMhJo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57995/devtools/browser/8a5806dd-29df-4670-b5ee-f089ae5def84
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666072646938	Marionette	INFO	Stopped listening on port 44149
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilezOMhJo/protections.sqlite
+1666072738144	geckodriver	INFO	Listening on 127.0.0.1:35887
+1666072738149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49047" "-no-remote" "-profile" "/tmp/rust_mozprofilektGwQg"
+1666072738737	Marionette	INFO	Marionette enabled
+1666072738740	Marionette	INFO	Listening on port 34331
+WebDriver BiDi listening on ws://127.0.0.1:49047
+1666072738833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilektGwQg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49047/devtools/browser/53b2f59b-fb46-4f1e-9479-8343b9e8979f
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666072746910	Marionette	INFO	Stopped listening on port 34331
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666072795071	geckodriver	INFO	Listening on 127.0.0.1:42405
+1666072795075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39621" "-no-remote" "-profile" "/tmp/rust_mozprofilerCJJet"
+1666072795625	Marionette	INFO	Marionette enabled
+1666072795631	Marionette	INFO	Listening on port 36779
+WebDriver BiDi listening on ws://127.0.0.1:39621
+1666072795724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerCJJet/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39621/devtools/browser/c9f0b0cb-9975-48ab-af44-96512cf54a84
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666072806734	Marionette	INFO	Stopped listening on port 36779
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilerCJJet/protections.sqlite
+1666073217241	geckodriver	INFO	Listening on 127.0.0.1:41487
+1666073217245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50647" "-no-remote" "-profile" "/tmp/rust_mozprofilejY8Duo"
+1666073217803	Marionette	INFO	Marionette enabled
+1666073217805	Marionette	INFO	Listening on port 43065
+WebDriver BiDi listening on ws://127.0.0.1:50647
+1666073217898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejY8Duo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50647/devtools/browser/df8728d4-6106-4c14-ac7f-c4f6bee21a13
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666074618833	Marionette	INFO	Stopped listening on port 43065
+1666074621250	geckodriver	INFO	Listening on 127.0.0.1:40629
+1666074621256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44559" "-no-remote" "-profile" "/tmp/rust_mozprofilefswdHa"
+1666074621814	Marionette	INFO	Marionette enabled
+1666074621817	Marionette	INFO	Listening on port 35433
+WebDriver BiDi listening on ws://127.0.0.1:44559
+1666074621915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefswdHa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44559/devtools/browser/384d18ba-02ff-45a7-8ecd-cd4bac8378d0
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075575573	Marionette	INFO	Stopped listening on port 35433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666075578422	geckodriver	INFO	Listening on 127.0.0.1:49149
+1666075578425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37223" "-no-remote" "-profile" "/tmp/rust_mozprofiled7jYfL"
+1666075578974	Marionette	INFO	Marionette enabled
+1666075578979	Marionette	INFO	Listening on port 36611
+WebDriver BiDi listening on ws://127.0.0.1:37223
+1666075579076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled7jYfL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37223/devtools/browser/fec3be83-70ff-4ed2-b675-b7fb0bce5277
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075622704	Marionette	INFO	Stopped listening on port 36611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666075624632	geckodriver	INFO	Listening on 127.0.0.1:37629
+1666075624635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32995" "-no-remote" "-profile" "/tmp/rust_mozprofilezlXal9"
+1666075625273	Marionette	INFO	Marionette enabled
+1666075625278	Marionette	INFO	Listening on port 41905
+WebDriver BiDi listening on ws://127.0.0.1:32995
+1666075625391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezlXal9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:32995/devtools/browser/c0ab177f-3c3d-4d3d-a674-52e6c1ff7a87
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075656811	Marionette	INFO	Stopped listening on port 41905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666075660221	geckodriver	INFO	Listening on 127.0.0.1:53691
+1666075660224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42759" "-no-remote" "-profile" "/tmp/rust_mozprofileWOMA1Q"
+1666075660773	Marionette	INFO	Marionette enabled
+1666075660776	Marionette	INFO	Listening on port 36367
+WebDriver BiDi listening on ws://127.0.0.1:42759
+1666075660878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWOMA1Q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42759/devtools/browser/4d605bcc-fe8b-4258-ae52-b77dcb1233ae
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075693067	Marionette	INFO	Stopped listening on port 36367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666075694387	geckodriver	INFO	Listening on 127.0.0.1:34147
+1666075694390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35837" "-no-remote" "-profile" "/tmp/rust_mozprofile1hGTNI"
+1666075694937	Marionette	INFO	Marionette enabled
+1666075694940	Marionette	INFO	Listening on port 45787
+WebDriver BiDi listening on ws://127.0.0.1:35837
+1666075695045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1hGTNI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35837/devtools/browser/e8b3a830-c41e-47e3-8d1d-c761a6da4bf4
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666075742850	geckodriver	INFO	Listening on 127.0.0.1:55397
+1666075742854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40505" "-no-remote" "-profile" "/tmp/rust_mozprofileieAX6S"
+1666075743389	Marionette	INFO	Marionette enabled
+1666075743393	Marionette	INFO	Listening on port 38049
+WebDriver BiDi listening on ws://127.0.0.1:40505
+1666075743499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileieAX6S/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40505/devtools/browser/ceff61fa-9578-40c8-ac52-f1456da9d1b3
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075745340	Marionette	INFO	Stopped listening on port 45787
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666075778728	geckodriver	INFO	Listening on 127.0.0.1:40825
+1666075778731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43601" "-no-remote" "-profile" "/tmp/rust_mozprofilenAbHOs"
+1666075779325	Marionette	INFO	Marionette enabled
+1666075779332	Marionette	INFO	Listening on port 46485
+WebDriver BiDi listening on ws://127.0.0.1:43601
+1666075779452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075780153	Marionette	INFO	Stopped listening on port 46485
+1666075780155	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666075781267	Marionette	INFO	Stopped listening on port 38049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666075783018	geckodriver	INFO	Listening on 127.0.0.1:47399
+1666075783022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52479" "-no-remote" "-profile" "/tmp/rust_mozprofileaSNfDI"
+1666075783541	Marionette	INFO	Marionette enabled
+1666075783544	Marionette	INFO	Listening on port 41537
+WebDriver BiDi listening on ws://127.0.0.1:52479
+1666075783738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaSNfDI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52479/devtools/browser/92ce3544-7e82-45ce-8bb5-e7521def0b6f
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666112394982	geckodriver	INFO	Listening on 127.0.0.1:44207
+1666112395450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41293" "-no-remote" "-profile" "/tmp/rust_mozprofilepdWkIY"
+1666112399333	Marionette	INFO	Marionette enabled
+1666112399346	Marionette	INFO	Listening on port 35753
+WebDriver BiDi listening on ws://127.0.0.1:41293
+1666112400015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepdWkIY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41293/devtools/browser/545c62b2-bc99-4189-adc7-4147bb2647ac
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666112504963	Marionette	INFO	Stopped listening on port 35753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666112572339	geckodriver	INFO	Listening on 127.0.0.1:41651
+1666112572345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60159" "-no-remote" "-profile" "/tmp/rust_mozprofileEnNbpo"
+1666112572902	Marionette	INFO	Marionette enabled
+1666112572904	Marionette	INFO	Listening on port 33565
+WebDriver BiDi listening on ws://127.0.0.1:60159
+1666112572990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEnNbpo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60159/devtools/browser/ef40aaab-fd20-4545-ae65-6a6c59c6f6a0
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666112625795	Marionette	INFO	Stopped listening on port 33565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666117813995	geckodriver	INFO	Listening on 127.0.0.1:42951
+1666117814001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52647" "-no-remote" "-profile" "/tmp/rust_mozprofile2RVWiJ"
+1666117814606	Marionette	INFO	Marionette enabled
+1666117814609	Marionette	INFO	Listening on port 43205
+WebDriver BiDi listening on ws://127.0.0.1:52647
+1666117814842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2RVWiJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52647/devtools/browser/8c455db5-766e-4fdf-b8f0-0923e9253528
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666117868178	Marionette	INFO	Stopped listening on port 43205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666117891737	geckodriver	INFO	Listening on 127.0.0.1:54311
+1666117891742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48375" "-no-remote" "-profile" "/tmp/rust_mozprofileA22WSj"
+1666117892322	Marionette	INFO	Marionette enabled
+1666117892325	Marionette	INFO	Listening on port 44149
+WebDriver BiDi listening on ws://127.0.0.1:48375
+1666117892410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA22WSj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48375/devtools/browser/fe635e6d-5c9f-47f0-a175-7f603e0af425
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+[Parent 9875, Main Thread] WARNING: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed
+[Parent 9875, Main Thread] WARNING: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed
+[Parent 9875, Main Thread] WARNING: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed
+[Parent 9875, Main Thread] WARNING: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed
+[Parent 9875, Main Thread] WARNING: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed
+[Parent 9875, Main Thread] WARNING: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.644: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed
+[Parent 9875, Main Thread] WARNING: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.645: gtk_widget_get_clipboard: assertion 'gtk_widget_has_screen (widget)' failed
+[Parent 9875, Main Thread] WARNING: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed: 'glib warning', file /build/firefox/src/firefox-105.0.3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9875): Gtk-CRITICAL **: 13:35:18.645: gtk_clipboard_request_contents: assertion 'clipboard != NULL' failed
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redalyc.org."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redalyc.org."
+1666118524383	geckodriver	INFO	Listening on 127.0.0.1:53893
+1666118524386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41903" "-no-remote" "-profile" "/tmp/rust_mozprofilesgbXvy"
+1666118524913	Marionette	INFO	Marionette enabled
+1666118524916	Marionette	INFO	Listening on port 37063
+WebDriver BiDi listening on ws://127.0.0.1:41903
+1666118525102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesgbXvy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41903/devtools/browser/aace6294-7d75-483c-bd60-a02ee8bc6f6c
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666118612385	Marionette	INFO	Stopped listening on port 37063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666118613670	geckodriver	INFO	Listening on 127.0.0.1:38379
+1666118613673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50435" "-no-remote" "-profile" "/tmp/rust_mozprofile289t2K"
+1666118614201	Marionette	INFO	Marionette enabled
+1666118614204	Marionette	INFO	Listening on port 34225
+WebDriver BiDi listening on ws://127.0.0.1:50435
+1666118614377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile289t2K/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50435/devtools/browser/4bd81fd5-5477-4e57-88bf-43ddc14d3122
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666118734815	geckodriver	INFO	Listening on 127.0.0.1:42015
+1666118734819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36353" "-no-remote" "-profile" "/tmp/rust_mozprofile3Vph8e"
+1666118735360	Marionette	INFO	Marionette enabled
+1666118735363	Marionette	INFO	Listening on port 45625
+WebDriver BiDi listening on ws://127.0.0.1:36353
+1666118735469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Vph8e/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:36353/devtools/browser/a339e1af-a739-4110-b25e-ab4e17212f3b
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666118764401	Marionette	INFO	Stopped listening on port 45625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666118764945	Marionette	INFO	Stopped listening on port 34225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666118848879	geckodriver	INFO	Listening on 127.0.0.1:57739
+1666118848883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43247" "-no-remote" "-profile" "/tmp/rust_mozprofileqdmdgI"
+1666118849446	Marionette	INFO	Marionette enabled
+1666118849449	Marionette	INFO	Listening on port 40217
+WebDriver BiDi listening on ws://127.0.0.1:43247
+1666118849535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqdmdgI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43247/devtools/browser/4dce4f92-a485-4773-8f1e-752a524fbbe8
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666118977935	geckodriver	INFO	Listening on 127.0.0.1:36391
+1666118977939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52157" "-no-remote" "-profile" "/tmp/rust_mozprofile6P1cdu"
+1666118978502	Marionette	INFO	Marionette enabled
+1666118978505	Marionette	INFO	Listening on port 37223
+WebDriver BiDi listening on ws://127.0.0.1:52157
+1666118978593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6P1cdu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52157/devtools/browser/4b3800ae-a05a-4b9d-a3f8-7e274ec025c8
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666118999090	Marionette	INFO	Stopped listening on port 40217
+1666119102658	geckodriver	INFO	Listening on 127.0.0.1:35903
+1666119102662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45969" "-no-remote" "-profile" "/tmp/rust_mozprofilerWXFXl"
+1666119103310	Marionette	INFO	Marionette enabled
+1666119103313	Marionette	INFO	Listening on port 39995
+WebDriver BiDi listening on ws://127.0.0.1:45969
+1666119103416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerWXFXl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45969/devtools/browser/ea2ed64d-de39-4112-9d6c-e785fc286502
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119140861	Marionette	INFO	Stopped listening on port 39995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119142548	Marionette	INFO	Stopped listening on port 37223
+1666119145009	geckodriver	INFO	Listening on 127.0.0.1:33101
+1666119145012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59333" "-no-remote" "-profile" "/tmp/rust_mozprofileNP9RFu"
+1666119145535	Marionette	INFO	Marionette enabled
+1666119145538	Marionette	INFO	Listening on port 39527
+WebDriver BiDi listening on ws://127.0.0.1:59333
+1666119145737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNP9RFu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59333/devtools/browser/032644f4-13f3-4855-904a-8437a1202366
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119178352	Marionette	INFO	Stopped listening on port 39527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666119186485	geckodriver	INFO	Listening on 127.0.0.1:55127
+1666119186491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52825" "-no-remote" "-profile" "/tmp/rust_mozprofileYEHRGg"
+1666119187017	Marionette	INFO	Marionette enabled
+1666119187020	Marionette	INFO	Listening on port 41465
+WebDriver BiDi listening on ws://127.0.0.1:52825
+1666119187197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYEHRGg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52825/devtools/browser/2e98ad4b-6434-4b5e-aa2f-df1c76258b37
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666119213503	Marionette	INFO	Stopped listening on port 41465
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119287845	geckodriver	INFO	Listening on 127.0.0.1:53699
+1666119287848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33135" "-no-remote" "-profile" "/tmp/rust_mozprofileSwLbdl"
+1666119288363	Marionette	INFO	Marionette enabled
+1666119288366	Marionette	INFO	Listening on port 40047
+WebDriver BiDi listening on ws://127.0.0.1:33135
+1666119288568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSwLbdl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33135/devtools/browser/2f7e677d-e817-40d2-8834-f552afc3c4e3
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666119311557	Marionette	INFO	Stopped listening on port 40047
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119357763	geckodriver	INFO	Listening on 127.0.0.1:47189
+1666119357767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45627" "-no-remote" "-profile" "/tmp/rust_mozprofile2EV0aJ"
+1666119358298	Marionette	INFO	Marionette enabled
+1666119358301	Marionette	INFO	Listening on port 41681
+WebDriver BiDi listening on ws://127.0.0.1:45627
+1666119358474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2EV0aJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45627/devtools/browser/7200163d-6667-4cf4-a79e-5487a757b2ee
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119562861	Marionette	INFO	Stopped listening on port 41681
+1666119564113	geckodriver	INFO	Listening on 127.0.0.1:47085
+1666119564117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50271" "-no-remote" "-profile" "/tmp/rust_mozprofile5e9oio"
+1666119564653	Marionette	INFO	Marionette enabled
+1666119564656	Marionette	INFO	Listening on port 37565
+WebDriver BiDi listening on ws://127.0.0.1:50271
+1666119564832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5e9oio/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50271/devtools/browser/0012cf05-cf12-4ae3-8cbe-445a0bfdb3ad
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666119606897	geckodriver	INFO	Listening on 127.0.0.1:57803
+1666119606901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54809" "-no-remote" "-profile" "/tmp/rust_mozprofilefOjk5a"
+1666119607467	Marionette	INFO	Marionette enabled
+1666119607470	Marionette	INFO	Listening on port 44091
+WebDriver BiDi listening on ws://127.0.0.1:54809
+1666119607556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefOjk5a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54809/devtools/browser/c8cb1dc0-3a8c-4e5c-ae78-6288cbe7d749
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666119716767	geckodriver	INFO	Listening on 127.0.0.1:60135
+1666119716771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49997" "-no-remote" "-profile" "/tmp/rust_mozprofileTLKYCT"
+1666119717292	Marionette	INFO	Marionette enabled
+1666119717295	Marionette	INFO	Listening on port 35379
+WebDriver BiDi listening on ws://127.0.0.1:49997
+1666119717495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTLKYCT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49997/devtools/browser/858156f7-f099-4961-9b8a-d732874ae9f8
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666119826064	geckodriver	INFO	Listening on 127.0.0.1:40045
+1666119826067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58457" "-no-remote" "-profile" "/tmp/rust_mozprofileyCXckP"
+1666119826575	Marionette	INFO	Marionette enabled
+1666119826578	Marionette	INFO	Listening on port 38689
+WebDriver BiDi listening on ws://127.0.0.1:58457
+1666119826778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyCXckP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58457/devtools/browser/87f3d7bb-806a-4336-af44-29bf363a10f2
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119829431	Marionette	INFO	Stopped listening on port 35379
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119831901	Marionette	INFO	Stopped listening on port 37565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119833077	Marionette	INFO	Stopped listening on port 44091
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119957295	Marionette	INFO	Stopped listening on port 38689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666119958894	geckodriver	INFO	Listening on 127.0.0.1:36305
+1666119958898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50219" "-no-remote" "-profile" "/tmp/rust_mozprofilehw2aoI"
+1666119959427	Marionette	INFO	Marionette enabled
+1666119959430	Marionette	INFO	Listening on port 46737
+WebDriver BiDi listening on ws://127.0.0.1:50219
+1666119959612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehw2aoI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50219/devtools/browser/ad6c428c-50bf-4c06-9656-e06d17ec23bb
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666119988877	Marionette	INFO	Stopped listening on port 46737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666119990091	geckodriver	INFO	Listening on 127.0.0.1:39639
+1666119990094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39773" "-no-remote" "-profile" "/tmp/rust_mozprofiletiPsxz"
+1666119990624	Marionette	INFO	Marionette enabled
+1666119990626	Marionette	INFO	Listening on port 41891
+WebDriver BiDi listening on ws://127.0.0.1:39773
+1666119990809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletiPsxz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39773/devtools/browser/6b6a29c4-8376-47b2-8bd4-9eed96cab2af
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666120045573	geckodriver	INFO	Listening on 127.0.0.1:39769
+1666120045577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51051" "-no-remote" "-profile" "/tmp/rust_mozprofilexNaYp1"
+1666120046182	Marionette	INFO	Marionette enabled
+1666120046185	Marionette	INFO	Listening on port 36451
+WebDriver BiDi listening on ws://127.0.0.1:51051
+1666120046390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexNaYp1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51051/devtools/browser/682ed6a5-160e-47c2-9e0b-3d1143026d34
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666120056910	geckodriver	INFO	Listening on 127.0.0.1:36805
+1666120056914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58827" "-no-remote" "-profile" "/tmp/rust_mozprofilemekDcF"
+1666120057448	Marionette	INFO	Marionette enabled
+1666120057450	Marionette	INFO	Listening on port 39449
+WebDriver BiDi listening on ws://127.0.0.1:58827
+1666120057620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemekDcF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58827/devtools/browser/d7a77dcb-5f4a-404f-be92-2981754e1fa8
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666120185123	geckodriver	INFO	Listening on 127.0.0.1:39501
+1666120185128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50787" "-no-remote" "-profile" "/tmp/rust_mozprofilezSUykA"
+1666120185645	Marionette	INFO	Marionette enabled
+1666120185648	Marionette	INFO	Listening on port 44521
+WebDriver BiDi listening on ws://127.0.0.1:50787
+1666120185854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezSUykA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50787/devtools/browser/4ff5001f-1817-4aad-9a02-f297df83d6d2
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+JavaScript error: https://www.redalyc.org/js/core.js, line 1: Error: html container not found
+1666120204256	Marionette	INFO	Stopped listening on port 44521
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"

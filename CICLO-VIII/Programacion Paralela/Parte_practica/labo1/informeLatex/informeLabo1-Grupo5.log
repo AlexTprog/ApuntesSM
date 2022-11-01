@@ -1,0 +1,327 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.25)  29 OCT 2022 14:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/alext/Documentos/ApuntesSM/CICLO-VIII/Programacion Paralela/Parte_practica/labo1/informeLatex/informeLabo1-Grupo5.tex"
+(/home/alext/Documentos/ApuntesSM/CICLO-VIII/Programacion Paralela/Parte_practica/labo1/informeLatex/informeLabo1-Grupo5.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen141
+\captionmargin=\dimen142
+\caption@leftmargin=\dimen143
+\caption@rightmargin=\dimen144
+\caption@width=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+\c@subfigure=\count195
+\c@subtable=\count196
+) (/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks17
+\float@box=\box50
+\@float@everytoks=\toks18
+\@floatcapt=\box51
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count198
+\U@D=\dimen149
+\l@unhyphenated=\language87
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count199
+ (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count266
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box52
+) (./informeLabo1-Grupo5.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `informeLabo1-Grupo5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen151
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+<img//UNMSM.png, id=1, 297.11pt x 297.11pt>
+File: img//UNMSM.png Graphic file (type png)
+<use img//UNMSM.png>
+Package pdftex.def Info: img//UNMSM.png  used on input line 16.
+(pdftex.def)             Requested size: 113.80968pt x 113.80968pt.
+<img//FISI.png, id=3, 180.675pt x 180.675pt>
+File: img//FISI.png Graphic file (type png)
+<use img//FISI.png>
+Package pdftex.def Info: img//FISI.png  used on input line 26.
+(pdftex.def)             Requested size: 56.90465pt x 56.90465pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img//UNMSM.png> <./img//FISI.png>]
+<img//Imagen1.png, id=13, 177.0615pt x 178.86826pt>
+File: img//Imagen1.png Graphic file (type png)
+<use img//Imagen1.png>
+Package pdftex.def Info: img//Imagen1.png  used on input line 85.
+(pdftex.def)             Requested size: 191.11546pt x 170.72356pt.
+<img//Imagen2.png, id=14, 172.84575pt x 166.82326pt>
+File: img//Imagen2.png Graphic file (type png)
+<use img//Imagen2.png>
+Package pdftex.def Info: img//Imagen2.png  used on input line 88.
+(pdftex.def)             Requested size: 191.10146pt x 170.72511pt.
+<img//Imagen3.png, id=15, 174.6525pt x 162.6075pt>
+File: img//Imagen3.png Graphic file (type png)
+<use img//Imagen3.png>
+Package pdftex.def Info: img//Imagen3.png  used on input line 91.
+(pdftex.def)             Requested size: 191.11363pt x 170.7305pt.
+<img//Imagen4.png, id=16, 174.05025pt x 161.403pt>
+File: img//Imagen4.png Graphic file (type png)
+<use img//Imagen4.png>
+Package pdftex.def Info: img//Imagen4.png  used on input line 94.
+(pdftex.def)             Requested size: 191.10527pt x 170.72679pt.
+<img//Imagen5.png, id=17, 174.05025pt x 164.41425pt>
+File: img//Imagen5.png Graphic file (type png)
+<use img//Imagen5.png>
+Package pdftex.def Info: img//Imagen5.png  used on input line 97.
+(pdftex.def)             Requested size: 191.10527pt x 170.72334pt.
+<img//Imagen6.png, id=18, 174.6525pt x 156.585pt>
+File: img//Imagen6.png Graphic file (type png)
+<use img//Imagen6.png>
+Package pdftex.def Info: img//Imagen6.png  used on input line 100.
+(pdftex.def)             Requested size: 191.11363pt x 170.72205pt.
+<img//Imagen7.png, id=19, 172.84575pt x 159.59625pt>
+File: img//Imagen7.png Graphic file (type png)
+<use img//Imagen7.png>
+Package pdftex.def Info: img//Imagen7.png  used on input line 106.
+(pdftex.def)             Requested size: 191.10146pt x 170.71758pt.
+<img//Imagen8.png, id=20, 177.66376pt x 159.59625pt>
+File: img//Imagen8.png Graphic file (type png)
+<use img//Imagen8.png>
+Package pdftex.def Info: img//Imagen8.png  used on input line 109.
+(pdftex.def)             Requested size: 191.10951pt x 170.71758pt.
+<img//Imagen9.png, id=21, 169.23225pt x 158.994pt>
+File: img//Imagen9.png Graphic file (type png)
+<use img//Imagen9.png>
+Package pdftex.def Info: img//Imagen9.png  used on input line 112.
+(pdftex.def)             Requested size: 191.1166pt x 170.72598pt.
+<img//Imagen10.png, id=22, 187.902pt x 156.585pt>
+File: img//Imagen10.png Graphic file (type png)
+<use img//Imagen10.png>
+Package pdftex.def Info: img//Imagen10.png  used on input line 115.
+(pdftex.def)             Requested size: 191.11273pt x 170.72205pt.
+ [2] [3 <./img//Imagen1.png> <./img//Imagen2.png> <./img//Imagen3.png> <./img//Imagen4.png> <./img//Imagen5.png> <./img//Imagen6.png>]
+<img//Imagen11.png, id=35, 348.70274pt x 225.2415pt>
+File: img//Imagen11.png Graphic file (type png)
+<use img//Imagen11.png>
+Package pdftex.def Info: img//Imagen11.png  used on input line 129.
+(pdftex.def)             Requested size: 390.01231pt x 170.72133pt.
+ [4 <./img//Imagen7.png> <./img//Imagen8.png> <./img//Imagen9.png> <./img//Imagen10.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<img//Imagen12.png, id=43, 199.34476pt x 174.6525pt>
+File: img//Imagen12.png Graphic file (type png)
+<use img//Imagen12.png>
+Package pdftex.def Info: img//Imagen12.png  used on input line 160.
+(pdftex.def)             Requested size: 191.1011pt x 170.72655pt.
+<img//Imagen13.png, id=44, 196.3335pt x 159.59625pt>
+File: img//Imagen13.png Graphic file (type png)
+<use img//Imagen13.png>
+Package pdftex.def Info: img//Imagen13.png  used on input line 163.
+(pdftex.def)             Requested size: 191.10532pt x 170.71758pt.
+<img//Imagen14.png, id=45, 187.902pt x 157.7895pt>
+File: img//Imagen14.png Graphic file (type png)
+<use img//Imagen14.png>
+Package pdftex.def Info: img//Imagen14.png  used on input line 166.
+(pdftex.def)             Requested size: 191.11273pt x 170.72311pt.
+<img//Imagen15.png, id=46, 171.039pt x 159.59625pt>
+File: img//Imagen15.png Graphic file (type png)
+<use img//Imagen15.png>
+Package pdftex.def Info: img//Imagen15.png  used on input line 169.
+(pdftex.def)             Requested size: 191.10825pt x 170.71758pt.
+<img//Imagen16.png, id=47, 174.6525pt x 159.59625pt>
+File: img//Imagen16.png Graphic file (type png)
+<use img//Imagen16.png>
+Package pdftex.def Info: img//Imagen16.png  used on input line 176.
+(pdftex.def)             Requested size: 191.11363pt x 170.71758pt.
+<img//Imagen17.png, id=48, 171.64125pt x 159.59625pt>
+File: img//Imagen17.png Graphic file (type png)
+<use img//Imagen17.png>
+Package pdftex.def Info: img//Imagen17.png  used on input line 179.
+(pdftex.def)             Requested size: 191.1002pt x 170.71758pt.
+<img//Imagen18.png, id=49, 166.82326pt x 154.77824pt>
+File: img//Imagen18.png Graphic file (type png)
+<use img//Imagen18.png>
+Package pdftex.def Info: img//Imagen18.png  used on input line 182.
+(pdftex.def)             Requested size: 191.11214pt x 170.72893pt.
+<img//Imagen19.png, id=50, 172.84575pt x 159.59625pt>
+File: img//Imagen19.png Graphic file (type png)
+<use img//Imagen19.png>
+Package pdftex.def Info: img//Imagen19.png  used on input line 185.
+(pdftex.def)             Requested size: 191.10146pt x 170.71758pt.
+<img//Imagen20.png, id=51, 169.8345pt x 162.00525pt>
+File: img//Imagen20.png Graphic file (type png)
+<use img//Imagen20.png>
+Package pdftex.def Info: img//Imagen20.png  used on input line 188.
+(pdftex.def)             Requested size: 191.10738pt x 170.7211pt.
+<img//Imagen21.png, id=52, 166.82326pt x 162.6075pt>
+File: img//Imagen21.png Graphic file (type png)
+<use img//Imagen21.png>
+Package pdftex.def Info: img//Imagen21.png  used on input line 191.
+(pdftex.def)             Requested size: 191.11214pt x 170.7305pt.
+[5 <./img//Imagen11.png>]
+Overfull \vbox (36.24939pt too high) has occurred while \output is active []
+
+ [6 <./img//Imagen12.png> <./img//Imagen13.png> <./img//Imagen14.png> <./img//Imagen15.png>]
+<img//Imagen23.png, id=64, 410.13225pt x 267.399pt>
+File: img//Imagen23.png Graphic file (type png)
+<use img//Imagen23.png>
+Package pdftex.def Info: img//Imagen23.png  used on input line 199.
+(pdftex.def)             Requested size: 390.00516pt x 170.7186pt.
+ [7 <./img//Imagen16.png> <./img//Imagen17.png> <./img//Imagen18.png> <./img//Imagen19.png> <./img//Imagen20.png> <./img//Imagen21.png>]
+<img//Imagen24.png, id=75, 452.892pt x 246.9225pt>
+File: img//Imagen24.png Graphic file (type png)
+<use img//Imagen24.png>
+Package pdftex.def Info: img//Imagen24.png  used on input line 204.
+(pdftex.def)             Requested size: 390.01163pt x 170.71579pt.
+<img//Imagen25.png, id=76, 452.892pt x 243.91125pt>
+File: img//Imagen25.png Graphic file (type png)
+<use img//Imagen25.png>
+Package pdftex.def Info: img//Imagen25.png  used on input line 208.
+(pdftex.def)             Requested size: 390.01163pt x 170.7181pt.
+ [8 <./img//Imagen23.png> <./img//Imagen24.png>] [9 <./img//Imagen25.png>] (./informeLabo1-Grupo5.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 5011 strings out of 478238
+ 89058 string characters out of 5850455
+ 390759 words of memory out of 5000000
+ 23226 multiletter control sequences out of 15000+600000
+ 472302 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,9n,77p,749b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on informeLabo1-Grupo5.pdf (9 pages, 889197 bytes).
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+

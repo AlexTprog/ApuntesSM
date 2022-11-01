@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "311694dbb3757fdd",
+        "id": "a77a6b33a42adfbf",
         "type": "tabs",
         "children": [
           {
-            "id": "621ae58de2b314b2",
+            "id": "efb095d902eb786a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mineria de Datos/S4 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2025450aeeff6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inteligencia de Negocio/S5 -.md",
+                "file": "Automatizacion/S5 - Interfaces de Conexion con el procesos de aplicacionS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "8791bfe16a072c7e",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia de Negocio/S5 -.md",
+                "file": "Automatizacion/S5 - Interfaces de Conexion con el procesos de aplicacionS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia de Negocio/S5 -.md",
+                "file": "Automatizacion/S5 - Interfaces de Conexion con el procesos de aplicacionS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligencia de Negocio/S5 -.md"
+                "file": "Automatizacion/S5 - Interfaces de Conexion con el procesos de aplicacionS.md"
               }
             }
           }
@@ -153,11 +139,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a2025450aeeff6a",
+  "active": "efb095d902eb786a",
   "lastOpenFiles": [
+    "Inteligencia de Negocio/S5 -.md",
     "Inteligencia de Negocio/S2 - Diseño de datamarts.md",
     "Mineria de Datos/S1 - Introduccion a la mineria de datos.md",
-    "Inteligencia de Negocio/S5 -.md",
     "Mineria de Datos/S4 -.md",
     "Seguridad de SW/S4 - Vulnerabilidades.md",
     "Automatizacion/S2 - Programacion de Automatas.md",

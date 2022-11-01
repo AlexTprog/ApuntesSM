@@ -5,9 +5,9 @@ using namespace std;
 int main() {
   int n;
   int x;
-  cout << "X" << endl;
+  // cout << "X" << endl;
   cin >> x;
-  cout << "n" << endl;
+  // cout << "n" << endl;
   cin >> n;
   int A[500];
 

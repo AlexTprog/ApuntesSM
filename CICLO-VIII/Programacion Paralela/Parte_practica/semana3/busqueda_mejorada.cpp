@@ -1,15 +1,21 @@
+#include <chrono>
+#include <cmath>
+#include <cstdlib>
 #include <iostream>
 #include <omp.h>
+#include <time.h>
+#include <vector>
 using namespace std;
 
 int main() {
   int n;
   int x;
-  cout << "X" << endl;
+  // cout << "X" << endl;
   cin >> x;
-  cout << "n" << endl;
+  // cout << "n" << endl;
   cin >> n;
-  int A[500];
+  // int A[500];
+  vector<int> A;
 
   for (int i = 0; i < n; i++) {
     int temp;
@@ -19,7 +25,8 @@ int main() {
 
   int NUM_THREADS = 2;
   omp_set_num_threads(NUM_THREADS);
-  auto start = std::steady_clock::now()
+  auto start = std::chrono::steady_clock::now();
+
   int found = -1;
 #pragma omp parallel
   {
@@ -28,13 +35,14 @@ int main() {
       if (A[i] == x) {
         found = i;
       }
-      if(found>=0){
+      if (found >= 0) {
         break;
       }
     }
   }
-auto end = std::chrono::steady_clock::now();
-std::chrono::stedy_clock::now()
+  auto end = std::chrono::steady_clock::now();
+  std::chrono::duration<double> elapsed_seconds = end - start;
+  cout << "elapsed time:" << elapsed_seconds.count() << "s\n";
 
   if (found >= 0) {
     cout << "encontrado " << found << endl;
