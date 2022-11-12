@@ -16,7 +16,8 @@ Busca sustituir a los operadores humanos en la ejecucion de tareas
 ## Esquema general de un sistema automatizado
 Tiene como objetivo gobernar sin que el operador intervenga directamente sobre sus elementos de salida. El operador manipula unicamente las magnitudes y el sistema de control gobierna 
 
-![[Pasted image 20220915211342.png]]
+
+![](../img/Pasted%20image%2020220915211342.png)
 
 Accionamiento:
 - Sistema de control gobierna mediante ellos
