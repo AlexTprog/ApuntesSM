@@ -1,20 +1,25 @@
 # Programacion de Automatas
+
 ## PLC
-**Controladores**
-**Logicos**
-**Programables**
-![[Pasted image 20220922185856.png]]
+### Controladores
+### Logicos
+### Programables
+
+![](../img/Pasted%20image%2020220922185856.png)
 
 ## Sistemas Logicos Digitales
-![[Pasted image 20220922190019.png]]
+![](../img/Pasted%20image%2020220922190019.png)
+
 Sisntesis Cableada
 Sintesis Programada en PLC
 Sistensis con Memorias o matrices logicas PLD
 Sistensis con arreglos logicos de Puertas Programables en campo FPGA
 
 ### Controladores
-![[Pasted image 20220922191118.png]]
-![[Pasted image 20220922191126.png]]
+![](../img/Pasted%20image%2020220922191118.png)
+
+![](../img/Pasted%20image%2020220922191126.png)
+
 ## Automatizacion
 Es el procedimiento por el cual un sistema trabaja optimamente y sin intervencion del ser humano, de acuerdo a un diseño
 

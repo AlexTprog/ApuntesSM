@@ -1,7 +1,7 @@
 # Automatizacion
 Procedimiento por el cual un sistema trabaja optimamente y sin intervencion humana de acuerdo a un diseño.
 
-### Por que?
+## Por que?
 Nos permite evitar tareas tediosas para el ser humano
 Abaratar costos de produccion
 Incrementar la calidad de los productos 
@@ -24,11 +24,14 @@ Accionamiento:
 - Sensores por ej
 
 **Sistema de control**
-![[Pasted image 20220915211705.png]]
+![](../img/Pasted%20image%2020220915211705.png)
 
 ## Tecnologias de automatizacion
-![[Pasted image 20220915212505.png]]
+
+![](../img/Pasted%20image%2020220915212505.png)
+
 
 ### Esquema de Automatizacion Industrial
-![[Pasted image 20220915213017.png]]
+![](../img/Pasted%20image%2020220915213017.png)
+
 
