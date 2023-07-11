@@ -381,7 +381,7 @@ garantizar que el progreso realizado no se pierda y para generar apoyo y un impu
 
 ## Que es el Modelo de 4 dimensiones de ITIL V4?
 
-Es un enfoque para comprender y gestionr los servicios de TI. Brindan un marco para evaluar y disenar servicios de TI
+Es un enfoque para comprender y gestion los servicios de TI. Brindan un marco para evaluar y disenar servicios de TI
 
 ### Organizacion y personas
 
@@ -461,3 +461,47 @@ Resultados logrados por medio de servicios
 Exptectativas de los clientes
 Analisis de valor economico
 Eficiencia, Efectividade, satisfaccion del cliente y otros indicadores clave de rendimiento.
+
+## Practicas de Gestion
+
+### Practicas Generales
+1. Gestión de la Arquitectura
+2. Mejora Continua
+3. Gestión de la Seguridad de la Información
+4. Gestión del Conocimiento
+5. Medición y Reporte
+6. Gestión del Cambio Organizacional.
+7. Gestión de Portafolio (Cartera)
+8. Gestión de Proyectos
+9. Gestión de las Relaciones
+10. Gestión de Riesgos
+11. Gestión Financiera del Servicio
+12. Gestión de la Estrategia
+13. Gestión de Proveedores 
+14. Gestión de la Mano de obra y de la fuerza de Trabajo 
+
+### Practicas de Gestion de SS
+1. Gestión de la Disponibilidad
+2. Análisis de Negocios 
+3. Gestión de la Capacidad y Rendimiento
+4. Control de Cambios 
+5. Gestión de Incidentes 
+6. Gestión de Activos de TI. 
+7. Monitorización y Gestión de Eventos 
+8. Gestión de Problemas 
+9. Gestión de la Liberación 
+10. Gestión del Catálogo de Servicio 
+11. Gestión de la Configuración del Servicio
+12. Gestión de la Continuidad del Servicio
+13. Diseño de Servicio
+14. Service Desk 
+15. Gestión de Niveles de Servicio 
+16. Gestión de Petición del Servicio 
+17. Validación y Pruebas del Servicio
+### Practicas Gestion Tecnica
+
+1. Gestion de implementacion
+
+2. Gestion de Infraestructura y plataformas
+
+3. Gestion de Infraestructura y plataformas
