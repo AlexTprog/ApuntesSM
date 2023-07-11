@@ -236,7 +236,123 @@ Reflejan en otros marcos, metodos, estandaras, filosofias o cuerpos de conocimie
 
 #### Gobierno
 
-Medios por los cuales se dirige y controla la organizacion
+Actividades y Medios por los cuales se dirige y controla la organizacion:
+
+Evaluar
+Dirigir
+Controlar
+
+##### Practicas de Gestion
+Recursos  destinados para lograr un objetivo
+Si no se tiene una vision es posible que las mejoras solo optimices equipo o personas de forma individual
+
+###### Practicas de Gestion General
+1. Gestión de la Arquitectura
+   Compresion de elementos que conforman organizacion y su interrelacion
+   Aborda => Negocio, Servicio, Informacion, tecnologia y medio ambiente
+2. Mejora Continua
+   Alinear practicas y Ss de la organizacion con necesidades comerciales a traves de la identificacion y mejora continua
+3. Gestión de la Seguridad de la Información
+   Protege informacion que necesita la organizacion para llevar a cabo su negocio. Comprender y gestionar los riesgos para la confidencialidad integridad
+4. Gestión del Conocimiento
+   Mantener y mejorar el uso eficaz y eficiente de la informacion y el conocimiento en toda la organizacion.
+   Enoque estructurado para definir, construir, reutilizar y compartir conocimiento
+5. Medición y Reporte
+   Apoyar buena toma de decisiones y la mejora continua al disminuir los niveles de incertidumbre   
+6. Gestión del Cambio Organizacional.
+   Garantizar que los cambios sin problemas y con exito. Las personas afectadas por el cambio lo acepten y respalden
+7. Gestión de Portafolio (Cartera)
+   Asegurar combinacion correcta de programas, proyectos, productos y ss para ejecutar estrategia de la organizacion.
+   Carteara de productos  ss , cartera de proyectos, carteras de clientes
+8. Gestión de Proyectos
+   Todos los proyectos en la organizacion se entreguen con exito. Planifica, delega monitorea, mantenimiento el control de todos los apsectos.
+   Metodo Cascada
+   Metodog Agil
+9.  Gestión de las Relaciones
+    Fomentar vinculos entre la organizacion y sus partes interesadas a nivel estrategico y tactico
+    Satistfaccion, prioridades, quejas
+10. Gestión de Riesgos
+    Garantizar que la org entienda y maneje los riesgos de manera efectiva. garantiza la sostenibilidad y crear para sus clientes
+    ISO 31000
+11. Gestión Financiera del Servicio
+    Apoyar las estregias y los planes de la organizacion
+12. Gestión de la Estrategia
+    Formular los objetivos de la organizacion y adoptar los cursos de accion y asignacion de recursos necesario para alcanzar esos objetivos.
+13. Gestión de Proveedores 
+    Garantizar el desemepno de manera adecuada para respaldar provision ininterrumpida de productos y servicios de calidad.
+14. Gestión de la Mano de obra y de la fuerza de Trabajo 
+    Garantizar las personas adecuadas con las habilidades y conocimientos adecuados y en los roles correctos para resptaldar sus objetivos.
+
+###### Practicas de Gestion Servicios
+1. Gestión de la Disponibilidad
+   Garantizar que los servicios brinden niveles acordados de disponibilidad para satisfacer las necesidades de los clientes y usuarios
+2. Análisis de Negocios 
+   Definir necesidades asociadas y recomendar soluciones para abordar estas necesidades asociadas y recomendar soluciones para abordar estas necesidades y o resolver un problema empresarial.
+3. Gestión de la Capacidad y Rendimiento
+   Servicios alacancen el rendimiento esperado y acordado
+4. Control de Cambios 
+   Maximizar la cantidad de cambios exitosos de TI al garantizar que los riesgos se hayan evaluado adecuadamente.
+   Cambios Estandar Normales 
+   Cambios de Emergencia
+5. Gestión de Incidentes 
+   Minimizar el impacto negativo de los incidentes, restauriacion del funcionamiento normal del servicio.
+   Incidente = Interrupcoin no planificada de un servicio o la reduccion de la calidad de un servicio
+6. Gestión de Activos de TI. 
+   Planificar y administrar el ciclo de vida completo de todos de activos de TI:
+   - Maximizar el valor
+   - Costos de control
+   - Gestionar riesgos
+7. Monitorización y Gestión de Eventos 
+   Observar sistematicamente los servicio y los componentes del servicio y registrar e informar los cambios seleccionados del estado identificados como eventos
+8. Gestión de Problemas 
+   Reducir la probabilidad y el impacto de los incidentes
+   Problema:        Una causa o causa potencial de uno o mas incidentes
+   Error conocido:  Un problema que se ha analizado pero no se ha resuelto
+   Workaround:      Solucion temporal o una forma alternativa
+9.  Gestión de la Liberación 
+    hacer que los servicios y características nuevos y modificados estén disponibles para su uso.
+    
+10. Gestión del Catálogo de Servicio 
+    Fuente única de información consistente sobre todos los servicios y ofertas de servicios,
+
+11. Gestión de la Configuración del Servicio
+    Información precisa y confiable sobre la configuración de los servicios y los CI que los respaldan estén disponibles cuando y donde sea necesario.
+
+12. Gestión de la Continuidad del Servicio
+    Disponibilidad y el rendimiento de un servicio se mantengan a un nivel suficiente en caso de un desastre.
+
+    Objetivo de Tiempo de Recuperación (RTO): período de tiempo máximo aceptable después de una interrupción
+    Objetivo de Punto de Recuperación (RPO): la información utilizada por una actividad debe restaurarse para permitir que la actividad funcione en la reanudación.
+    Planes de recuperación ante desastres (DRP): conjunto de planes claramente definidos relacionados con la forma en que una organización se recuperará de un desastre
+    Análisis de Impacto en el Negocio (BIA):identifica las funciones vitales del negocio (VBF) y sus dependencias.
+
+13. Diseño de Servicio
+    Capturar la demanda de resolución de incidentes y solicitudes de servicio. También debe ser el punto de entrada y el punto único de contacto.
+
+14. Service Desk 
+    Diseñar productos y servicios que sean adecuados para su propósito, aptos para su uso y que puedan ser entregados por la organización y su ecosistema.
+
+15. Gestión de Niveles de Servicio  
+    objetivos claros basados en el negocio para el desempeño del servicio, SLA.
+
+16. Gestión de Petición del Servicio 
+    Respaldar la calidad acordada de un servicio manejando todas las solicitudes de servicio predefinidas e iniciadas por el usuario de una maneraefectiva y fácil de usar.
+    
+17. Validación y Pruebas del Servicio
+    Garantizar que los productos y servicios nuevos o modificados cumplan con los requisitos definidos.
+    
+
+###### Practicas de Gestion Tecnica
+1. Gestion de implementacion
+   Mover hardware, software, documentación, procesos o cualquier otro componente nuevo o modificado a entornos en vivo.
+   - Implementación por fases:
+   - Entrega continua:
+   - Implementación de Big Bang:
+   - Implementación de extracción:
+2. Gestion de Infraestructura y plataformas
+   Supervisar la infraestructura y las plataformas utilizadas por una organización. Incluye la provisión de la tecnología necesaria para respaldar las actividades que crean valor. Para la organización y sus partes interesadas.
+3. Gestion de Infraestructura y plataformas
+   Garantizar que las aplicaciones cumplan con las necesidades de los interesados internos y externos, en términos de funcionalidad, confiabilidad, mantenimiento, cumplimiento y capacidad de auditoría.
 
 #### Cadena de Valor de Servicio
 Elemento centra del SVS describe actividades para responder a la demanda
@@ -462,46 +578,4 @@ Exptectativas de los clientes
 Analisis de valor economico
 Eficiencia, Efectividade, satisfaccion del cliente y otros indicadores clave de rendimiento.
 
-## Practicas de Gestion
 
-### Practicas Generales
-1. Gestión de la Arquitectura
-2. Mejora Continua
-3. Gestión de la Seguridad de la Información
-4. Gestión del Conocimiento
-5. Medición y Reporte
-6. Gestión del Cambio Organizacional.
-7. Gestión de Portafolio (Cartera)
-8. Gestión de Proyectos
-9. Gestión de las Relaciones
-10. Gestión de Riesgos
-11. Gestión Financiera del Servicio
-12. Gestión de la Estrategia
-13. Gestión de Proveedores 
-14. Gestión de la Mano de obra y de la fuerza de Trabajo 
-
-### Practicas de Gestion de SS
-1. Gestión de la Disponibilidad
-2. Análisis de Negocios 
-3. Gestión de la Capacidad y Rendimiento
-4. Control de Cambios 
-5. Gestión de Incidentes 
-6. Gestión de Activos de TI. 
-7. Monitorización y Gestión de Eventos 
-8. Gestión de Problemas 
-9. Gestión de la Liberación 
-10. Gestión del Catálogo de Servicio 
-11. Gestión de la Configuración del Servicio
-12. Gestión de la Continuidad del Servicio
-13. Diseño de Servicio
-14. Service Desk 
-15. Gestión de Niveles de Servicio 
-16. Gestión de Petición del Servicio 
-17. Validación y Pruebas del Servicio
-### Practicas Gestion Tecnica
-
-1. Gestion de implementacion
-
-2. Gestion de Infraestructura y plataformas
-
-3. Gestion de Infraestructura y plataformas
