@@ -351,7 +351,7 @@ Si no se tiene una vision es posible que las mejoras solo optimices equipo o per
    - Implementación de extracción:
 2. Gestion de Infraestructura y plataformas
    Supervisar la infraestructura y las plataformas utilizadas por una organización. Incluye la provisión de la tecnología necesaria para respaldar las actividades que crean valor. Para la organización y sus partes interesadas.
-3. Gestion de Infraestructura y plataformas
+3. Desarrollo y Gestión de Software
    Garantizar que las aplicaciones cumplan con las necesidades de los interesados internos y externos, en términos de funcionalidad, confiabilidad, mantenimiento, cumplimiento y capacidad de auditoría.
 
 #### Cadena de Valor de Servicio
@@ -461,7 +461,7 @@ Asegura Entrega y respaldo de acuerdo a especificaciones acordadas y las expecta
 #### Practicas
 Conjunto de recursos organizacionales disenados para realizar un trabajo o un objetivo
 
-#### Mejora Continua
+### Mejora Continua
 Garantiza el desempeno organizacional cumpla con las espectativas
 
 Se aplica en prod, servicios , compoenete y relacion de la organizacion.

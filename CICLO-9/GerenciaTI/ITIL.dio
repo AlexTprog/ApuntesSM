@@ -1,14 +1,726 @@
 <mxfile host="65bd71144e">
     <diagram id="W8nEwv_JBdzjW-9kIcqZ" name="ITIL">
-        <mxGraphModel dx="1086" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="3658" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="ITIL" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-                    <mxGeometry x="420" y="230" width="75" height="36" as="geometry"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="270" width="60" height="30" as="geometry"/>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.383;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="253" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="4" target="252">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Informaticion&amp;nbsp;&amp;nbsp;&lt;br&gt;Technology&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;Infraestructure&lt;br&gt;Library&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=30;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="405" width="460" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="5" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="5" target="181">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="5" target="182">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="5" target="183">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="189" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="5" target="184">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Ciclo de Vida&amp;nbsp; de Servicios" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="694.25" y="310" width="300" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="6" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="6" target="114">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="6" target="131">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Sistema de Valor de Servicio&amp;nbsp;&lt;br style=&quot;font-size: 25px;&quot;&gt;SVS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="335" width="385.75" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="157" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="156">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="166" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="7" target="163">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="7" target="175">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Modelo de 4 dimensiones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="329.5" y="680" width="340" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="976" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="14" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Principios Guia" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="-460" y="395" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="192" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="191">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="15" target="193">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="198" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="15" target="194">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="15" target="195">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="15" target="196">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Estrategia de Servicio" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="900" y="110" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Enfoque en el valor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="30" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Comenzar donde estas" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="110" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Progreso Iterativo con Retroalimentacion" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="190" width="190" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Colaborar y Promover la Visibilidad" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="290" width="190" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Pensar y Trabajar Holisticamente" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="390" width="190" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Mantenlo Simple y Practico" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="490" width="190" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Optimiza y Automatiza" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-1040" y="575" width="190" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=0.432;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="33" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="33" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="33" target="105">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Gobierno" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="-282.5" y="240" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;startArrow=none;" edge="1" parent="1" source="48" target="53">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="55">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="57">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="59">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="61">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="63">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="65">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="36" target="67">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Practicas de Gestion General" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-570" y="20" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Gestión de la Arquitectura&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1270" y="-300" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Mejora Continua" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1170" y="-240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Gestión de la Seguridad de la Información" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1080" y="-330" width="170" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Medición y Reporte" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1210" y="-433" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Gestión del Cambio Organizacional." style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1140" y="-500" width="205" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Gestión de Portafolio (Cartera)" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-890" y="-473" width="185" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Gestión de Proyectos" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-770" y="-290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Gestion de las relaciones" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-780" y="-190" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Gestión de Riesgos" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-570" y="-220" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Gestión Financiera&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-1330" y="-220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Gestión de Proveedores" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-605" y="-320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Gestion de la Mano de obre y la fuerza de trabajo" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-720" y="-440" width="335" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="72">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;entryX=0.402;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="76">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="77">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="80">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="82">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="84">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="86">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="88">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="90">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="92">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="70" target="95">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="785" y="-360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="96">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="99">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="101">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="70" target="103">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Practicas de Gestion de Servicios" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-290" y="-10" width="235" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Gestion de Disponibilidad" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-338.25" y="-330" width="152.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Analisis de Negocio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-147" y="-330" width="152.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Gestion de Capacidad y Rendimiento" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-55.75" y="-230" width="230" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Gestion de Incidentes" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="219.25" y="-650" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Gestion Activos de TI" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-265.75" y="-470" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="Monitorizacion y Gestion de Eventos" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="5.5" y="-460" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="Gestion de Problemas" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="74.25" y="-350" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="Gestion de la liberacion" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="184.25" y="-190" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="Gestion del Catalogo de Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-45.75" y="-550" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="Gestion de la configuracion del Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="254.25" y="-450" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="Gestion de la continuidad del Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="334.25" y="-370" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="Diseño de Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="459" y="-230" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Service Desk" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="434.25" y="-170" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="Gestion de Niveles de Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="294.25" y="-570" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="Gestion dePeticion del Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="534.25" y="-460" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="Validacion y Pruebas del Servicio" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="623.25" y="-340" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="105" target="107">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="105" target="109">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="498" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="105" target="111">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="Practicas de Tecnica" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="-39.5" y="130" width="235" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="Gestion de implementacion&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="81.25" y="-30" width="235" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="Gestion de Infraestructura y plataformas" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="316.25" y="-60" width="235" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="Desarrollo y Gestión de Software" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="40" width="235" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="121">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="123">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="126">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="127">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="128">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="129">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="114" target="130">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;h4 data-focus-visible-added=&quot;&quot; class=&quot;focus-visible&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt;Cadena de Valor de Servicio&lt;/h4&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="-400" y="550" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="Planificar" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-810" y="815" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="Mejorar" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="815" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="Involucrar/Contratar" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-447.5" y="815" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="Diseño y realizar transicion" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-720" y="865" width="197.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="Obtener y construir" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-480" y="895" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="Entrega y soporte" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-660" y="945" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="Practicas" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-462.5" y="985" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;" edge="1" parent="1" source="131" target="139">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="Mejora Continua" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="595" width="197.5" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="139" target="140">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="Cual es la vision?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-150.75" y="750" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="140" target="141">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="Donde estamos?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="820" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="141" target="142">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="Donde queremos estar?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="885" width="197.5" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="142">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-69.5" y="1030" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="142" value="Como llegamos?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="955" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="143" target="144">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="Actua" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="1015" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="144" target="145">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="Llegamos?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="1070" width="197.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="Como Manejamos el Impulso?" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="-169.5" y="1120" width="197.5" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="156" target="159">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="162" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="156" target="160">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="156" value="Organizacion y Peronsas" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="170" y="875" width="223.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="159" value="Estructura" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="139.25" y="1040" width="130.75" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="160" value="Cultura" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="115.5" y="985" width="120.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="163" target="164">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="1100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="168" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="163" target="165">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="170">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1155" y="1170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="163" value="Informacion y Tecnologia" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="334.25" y="955" width="205.75" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="164" value="Gestiona Conocimientos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="253.25" y="1110" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="165" value="Tecnologias necesarias" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="416.38" y="1095" width="125.75" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="172" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="170" target="171">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="170" target="173">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="170" value="Socios y Proveedores" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="519.25" y="880" width="165" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" value="Relaciones de organizacion" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="561" y="1070" width="133.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="Factores al elegir un proveedor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="1000" width="133.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="175" target="177">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="175" target="179">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="175" value="Flujos de Valor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="740.01" y="845" width="171.75" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="Creacion de productos y Servicios" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="985" width="157.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="179" value="Pasos para lograr un objetivo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="730" y="920" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="207" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;startArrow=none;" edge="1" parent="1" source="181" target="214">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1490" y="185.00000000000023" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="216" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="181" target="215">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="218" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="181" target="217">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="220" style="edgeStyle=none;html=1;entryX=0.468;entryY=0.982;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;entryPerimeter=0;" edge="1" parent="1" source="181" target="219">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="Diseño de Servicio" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1090" y="190" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="222" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="182" target="221">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="228" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="182" target="227">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="229" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="182" target="225">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="230" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="182" target="226">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="Transicion del Servicio" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1070" y="275" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="233" style="edgeStyle=none;html=1;entryX=-0.004;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="183" target="232">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="237" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="183" target="234">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="238" style="edgeStyle=none;html=1;entryX=-0.011;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="183" target="235">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="239" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="183" target="236">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="Operacion de Servicio" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1050" y="370" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="242" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="184" target="241">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="243" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="184" target="240">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="247" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="184" target="246">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="248" style="edgeStyle=none;html=1;entryX=0.008;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=25;fontColor=#FFFCFC;" edge="1" parent="1" source="184" target="245">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="Mejora Continua" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="500" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="191" value="Gestion Estrategica para SS de TI" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="-230" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="Gestion de Portafolio de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="-130" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" value="Gestion Financiera para SS de TI" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="815" y="-10" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" value="Gestion de la Demanda" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="-40" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" value="Gestion de Relaciones de Negocio" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="-100" width="240" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="214" value="4P" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1255" y="100" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="215" value="Coodinacion del diseno" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1510" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="217" value="Gestion del Catalogo de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1570" y="100" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="219" value="Gestion de Niveles de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1390" y="-80" width="210" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="221" value="Planeacion y Soporte a Trancision" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1400" y="240" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="223" value="Gestion de Cambios" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1450" y="330" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="224" style="edgeStyle=none;html=1;fontSize=25;fontColor=#FFFCFC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="182" target="223">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1300" y="344.6551724137928" as="sourcePoint"/>
+                        <mxPoint x="1390" y="335.34482758620675" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="225" value="Gestion de Activos" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1640" y="230" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="226" value="Validacion y Pruebas de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1690" y="320" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="227" value="Gestion de Conocimiento" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1880" y="250" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="232" value="Gestion de Eventos" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1390" y="405" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="234" value="Gestion de Incidentes" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1540" y="465" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="235" value="Cumplimiento de Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1710" y="515" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="236" value="Gestion de Accesos" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1754" y="430" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="240" value="Hacer" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="615" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="241" value="Planificar" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1510" y="545" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="245" value="Monitorizar" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1510" y="690" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="246" value="Ajustes necesarios" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;fontColor=#FFFCFC;" vertex="1" parent="1">
+                    <mxGeometry x="1330" y="565" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="255">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="261" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="258">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="262" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="256">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="254">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="257">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="265" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="259">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="270" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="269">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="271" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="268">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="272" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="266">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="273" style="edgeStyle=none;html=1;fontSize=15;fontColor=#FFFCFC;" edge="1" parent="1" source="252" target="267">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="252" value="Conceptos" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="690" width="340" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="254" value="Patrocinador" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1270" y="885" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="255" value="Riesgo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1070" y="870" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="256" value="Valor" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1015" y="955" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="257" value="Relacion de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1255" y="995" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="Prestacion de SS" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1070" y="1050" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="259" value="Utilidad" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1230" y="1112.5" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="266" value="SS Manager" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1450" y="1030" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" value="SS Owner" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1460" y="1100" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" value="Process Owner" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="950" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="269" value="Funcion&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#FFFCFC;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="1520" y="875" width="200" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="274" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#FFFCFC;endArrow=none;" edge="1" parent="1" source="36" target="48">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-516.875" y="20" as="sourcePoint"/>
+                        <mxPoint x="-1005.625" y="-440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="Gestión del Conocimiento" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFCFC;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-890" y="-310" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
